@@ -1,0 +1,12 @@
+# Python
+__pychache__/
+*.pyc
+.venv/
+
+
+# Spark
+_SUCCESS
+*.crc
+
+# MacOS
+.DS_Store

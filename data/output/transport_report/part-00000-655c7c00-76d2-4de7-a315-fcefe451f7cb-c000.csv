@@ -1,0 +1,235 @@
+journey_id,journey_date,station_id,station_name,borough_id,borough_name,zone_id,zone_name,line_id,line_name,transport_mode,passenger_count,delay_minutes,time_band,entry_exit_flag
+J00001,2026-02-10,S0078,Lewisham Road,B011,Greenwich,Z6,Zone 6,L004,Piccadilly,Underground,1699,1,Midday,Entry
+J00002,2026-02-14,S0113,Clapham Common Station,B014,Brent,Z3,Zone 3,L015,Route 149,Bus,1678,20,Am Peak,Exit
+J00003,2026-02-27,S0021,London Bridge Gate,B006,Tower Hamlets,Z6,Zone 6,L014,Route 73,Bus,979,5,Pm Peak,Transfer
+J00004,2026-02-23,S0109,Ealing Broadway Station,B019,Kensington And Chelsea,Z1,Zone 1,L010,London Overground,Overground,1703,0,Pm Peak,Transfer
+J00005,2026-02-24,S0017,Clapham Common Junction,B015,Croydon,Z2,Zone 2,L009,Dlr,Light Rail,876,15,Pm Peak,Exit
+J00006,2026-02-21,S0178,Acton Gate,B009,Hammersmith And Fulham,Z5,Zone 5,L013,Route 38,Bus,1575,0,Midday,Transfer
+J00008,2026-02-08,S0148,Green Park Road,B012,Lewisham,Z5,Zone 5,L016,Tramlink,Tram,241,0,Midday,Transfer
+J00009,2026-02-15,S0176,Bow Road Station,B005,Hackney,Z2,Zone 2,L013,Route 38,Bus,1638,3,Late Evening,Transfer
+J00010,2026-02-19,S0035,Richmond Interchange,B019,Kensington And Chelsea,Z2,Zone 2,L001,Central,Underground,370,20,Pm Peak,Exit
+J00011,2026-02-06,S0051,Highbury Interchange,B002,Westminster,Z5,Zone 5,L003,Victoria,Underground,863,3,Late Evening,Exit
+J00012,2026-02-18,S0214,Holborn Station,B017,Bromley,Z6,Zone 6,L004,Piccadilly,Underground,57,0,Midday,Entry
+J00013,2026-02-02,S0119,Brixton Road,B001,Camden,Z5,Zone 5,L007,Circle,Underground,551,0,Late Evening,Transfer
+J00014,2026-02-12,S0110,Green Park Station,B019,Kensington And Chelsea,Z6,Zone 6,L008,Bakerloo,Underground,320,0,Midday,Transfer
+J00015,2026-02-14,S0031,Euston Interchange,B016,Newham,Z5,Zone 5,L006,District,Underground,1486,12,Late Evening,Transfer
+J00016,2026-02-07,S0127,Richmond Central,B005,Hackney,Z6,Zone 6,L016,Tramlink,Tram,474,1,Pm Peak,Exit
+J00017,2026-02-14,S0192,Charing Cross Road,B010,Ealing,Z4,Zone 4,L014,Route 73,Bus,797,0,Midday,Transfer
+J00018,2026-02-07,S0056,Finsbury Park Road,B009,Hammersmith And Fulham,Z2,Zone 2,L012,Route 24,Bus,1503,20,Late Evening,Entry
+J00019,2026-02-09,S0105,Croydon Interchange,B003,Southwark,Z6,Zone 6,L002,Northern,Underground,73,2,Midday,Transfer
+J00020,2026-02-22,S0116,King's Cross Central,B015,Croydon,Z2,Zone 2,L015,Route 149,Bus,772,15,Late Evening,Entry
+J00021,2026-02-23,S0003,Baker Street Station,B007,Lambeth,Z2,Zone 2,L001,Central,Underground,287,3,Late Evening,Transfer
+J00022,2026-02-24,S0055,Whitechapel Interchange,B009,Hammersmith And Fulham,Z4,Zone 4,L005,Jubilee,Underground,1465,5,Pm Peak,Entry
+J00023,2026-02-08,S0025,Hammersmith Junction,B006,Tower Hamlets,Z4,Zone 4,L001,Central,Underground,121,3,Late Evening,Exit
+J00024,2026-02-17,S0156,Brixton Park,B014,Brent,Z3,Zone 3,L009,Dlr,Light Rail,25,2,Late Evening,Exit
+J00025,2026-02-02,S0102,Moorgate Interchange,B015,Croydon,Z2,Zone 2,L002,Northern,Underground,285,12,Midday,Exit
+J00026,2026-02-05,S0044,Bow Road Interchange,B003,Southwark,Z4,Zone 4,L004,Piccadilly,Underground,709,7,Am Peak,Exit
+J00027,2026-02-04,S0182,Stratford Park,B012,Lewisham,Z1,Zone 1,L012,Route 24,Bus,305,2,Pm Peak,Entry
+J00028,2026-02-24,S0033,Ealing Broadway Junction,B012,Lewisham,Z4,Zone 4,L015,Route 149,Bus,1800,2,Pm Peak,Exit
+J00029,2026-02-17,S0073,Croydon Gate,B017,Bromley,Z4,Zone 4,L011,Elizabeth Line,Rail,1270,2,Pm Peak,Exit
+J00030,2026-02-25,S0043,Tottenham Hale Junction,B005,Hackney,Z4,Zone 4,L006,District,Underground,1524,7,Midday,Transfer
+J00031,2026-02-05,S0219,Mile End Junction,B017,Bromley,Z5,Zone 5,L006,District,Underground,123,1,Am Peak,Entry
+J00032,2026-02-06,S0047,Paddington Junction,B009,Hammersmith And Fulham,Z4,Zone 4,L010,London Overground,Overground,978,2,Late Evening,Exit
+J00033,2026-02-12,S0030,Kew Gardens Station,B003,Southwark,Z6,Zone 6,L016,Tramlink,Tram,98,7,Late Evening,Exit
+J00034,2026-02-04,S0127,Richmond Central,B005,Hackney,Z6,Zone 6,L016,Tramlink,Tram,1747,0,Pm Peak,Entry
+J00035,2026-02-24,S0053,Stratford Road,B020,Richmond Upon Thames,Z1,Zone 1,L003,Victoria,Underground,384,0,Pm Peak,Transfer
+J00037,2026-02-22,S0020,Euston Road,B016,Newham,Z1,Zone 1,L002,Northern,Underground,1588,7,Am Peak,Exit
+J00038,2026-02-04,S0007,South Kensington Station,B012,Lewisham,Z3,Zone 3,L009,Dlr,Light Rail,1410,20,Late Evening,Exit
+J00039,2026-02-05,S0152,Richmond Junction,B003,Southwark,Z2,Zone 2,L004,Piccadilly,Underground,1729,3,Am Peak,Entry
+J00040,2026-02-09,S0118,Clapham Common Interchange,B012,Lewisham,Z3,Zone 3,L011,Elizabeth Line,Rail,944,20,Am Peak,Exit
+J00041,2026-02-05,S0012,Acton Central,B007,Lambeth,Z6,Zone 6,L009,Dlr,Light Rail,680,15,Midday,Entry
+J00042,2026-02-24,S0206,Walthamstow Station,B012,Lewisham,Z4,Zone 4,L004,Piccadilly,Underground,676,0,Am Peak,Transfer
+J00043,2026-02-09,S0155,South Kensington Interchange,B020,Richmond Upon Thames,Z5,Zone 5,L005,Jubilee,Underground,204,5,Midday,Entry
+J00044,2026-02-28,S0198,Victoria Junction,B012,Lewisham,Z6,Zone 6,L014,Route 73,Bus,197,0,Midday,Entry
+J00045,2026-02-25,S0100,Lewisham Gate,B013,Barnet,Z6,Zone 6,L006,District,Underground,598,20,Midday,Entry
+J00046,2026-02-24,S0077,Tottenham Hale Gate,B007,Lambeth,Z3,Zone 3,L014,Route 73,Bus,1655,5,Pm Peak,Transfer
+J00047,2026-02-04,S0155,South Kensington Interchange,B020,Richmond Upon Thames,Z5,Zone 5,L005,Jubilee,Underground,750,20,Pm Peak,Transfer
+J00048,2026-02-16,S0052,Canary Wharf Gate,B008,Wandsworth,Z4,Zone 4,L004,Piccadilly,Underground,927,5,Pm Peak,Transfer
+J00049,2026-02-26,S0154,Brixton Junction,B016,Newham,Z4,Zone 4,L008,Bakerloo,Underground,199,5,Pm Peak,Transfer
+J00050,2026-02-03,S0048,Richmond Gate,B016,Newham,Z2,Zone 2,L007,Circle,Underground,1306,5,Am Peak,Transfer
+J00051,2026-02-21,S0088,Paddington Park,B004,Islington,Z4,Zone 4,L008,Bakerloo,Underground,1400,1,Midday,Exit
+J00052,2026-02-14,S0135,Richmond Station,B006,Tower Hamlets,Z1,Zone 1,L014,Route 73,Bus,610,7,Am Peak,Exit
+J00053,2026-02-10,S0077,Tottenham Hale Gate,B007,Lambeth,Z3,Zone 3,L014,Route 73,Bus,276,20,Midday,Transfer
+J00054,2026-02-18,S0110,Green Park Station,B019,Kensington And Chelsea,Z6,Zone 6,L008,Bakerloo,Underground,1179,0,Am Peak,Entry
+J00055,2026-02-14,S0132,Mile End Central,B019,Kensington And Chelsea,Z4,Zone 4,L010,London Overground,Overground,1060,5,Am Peak,Exit
+J00056,2026-02-19,S0170,Hammersmith Station,B013,Barnet,Z3,Zone 3,L001,Central,Underground,742,2,Am Peak,Transfer
+J00057,2026-02-15,S0005,Shepherd's Bush Central,B001,Camden,Z2,Zone 2,L014,Route 73,Bus,1531,20,Midday,Entry
+J00058,2026-02-14,S0216,Canary Wharf Interchange,B016,Newham,Z4,Zone 4,L015,Route 149,Bus,107,0,Pm Peak,Exit
+J00059,2026-02-15,S0151,Baker Street Gate,B020,Richmond Upon Thames,Z2,Zone 2,L006,District,Underground,1566,20,Pm Peak,Exit
+J00060,2026-02-03,S0208,Paddington Interchange,B010,Ealing,Z2,Zone 2,L005,Jubilee,Underground,447,0,Pm Peak,Transfer
+J00061,2026-02-01,S0028,Highbury Station,B020,Richmond Upon Thames,Z3,Zone 3,L016,Tramlink,Tram,1109,0,Late Evening,Entry
+J00062,2026-02-15,S0004,Green Park Gate,B018,Haringey,Z4,Zone 4,L008,Bakerloo,Underground,1358,7,Late Evening,Transfer
+J00063,2026-02-27,S0191,Charing Cross Interchange,B003,Southwark,Z2,Zone 2,L009,Dlr,Light Rail,635,15,Pm Peak,Transfer
+J00064,2026-02-03,S0173,Hammersmith Central,B014,Brent,Z2,Zone 2,L007,Circle,Underground,1662,2,Midday,Entry
+J00065,2026-02-23,S0004,Green Park Gate,B018,Haringey,Z4,Zone 4,L008,Bakerloo,Underground,244,0,Midday,Entry
+J00066,2026-02-21,S0054,Shepherd's Bush Road,B017,Bromley,Z3,Zone 3,L009,Dlr,Light Rail,1343,0,Midday,Exit
+J00067,2026-02-25,S0216,Canary Wharf Interchange,B016,Newham,Z4,Zone 4,L015,Route 149,Bus,191,2,Late Evening,Entry
+J00068,2026-02-06,S0122,Richmond Road,B012,Lewisham,Z4,Zone 4,L011,Elizabeth Line,Rail,59,0,Midday,Transfer
+J00069,2026-02-01,S0180,Waterloo Park,B016,Newham,Z5,Zone 5,L014,Route 73,Bus,1008,7,Late Evening,Transfer
+J00070,2026-02-27,S0063,Mile End Road,B014,Brent,Z5,Zone 5,L001,Central,Underground,618,15,Late Evening,Entry
+J00071,2026-02-28,S0086,Stratford Junction,B020,Richmond Upon Thames,Z1,Zone 1,L015,Route 149,Bus,225,20,Late Evening,Exit
+J00072,2026-02-20,S0218,Liverpool Street Junction,B004,Islington,Z3,Zone 3,L003,Victoria,Underground,1524,15,Pm Peak,Entry
+J00074,2026-02-14,S0183,Croydon Station,B013,Barnet,Z3,Zone 3,L007,Circle,Underground,1096,0,Pm Peak,Transfer
+J00075,2026-02-16,S0017,Clapham Common Junction,B015,Croydon,Z2,Zone 2,L009,Dlr,Light Rail,1342,5,Am Peak,Exit
+J00076,2026-02-01,S0160,Mile End Station,B017,Bromley,Z4,Zone 4,L001,Central,Underground,933,5,Midday,Exit
+J00077,2026-02-15,S0186,London Bridge Park,B020,Richmond Upon Thames,Z1,Zone 1,L009,Dlr,Light Rail,976,3,Midday,Transfer
+J00078,2026-02-15,S0057,Stratford Central,B010,Ealing,Z2,Zone 2,L015,Route 149,Bus,1248,20,Midday,Exit
+J00079,2026-02-21,S0186,London Bridge Park,B020,Richmond Upon Thames,Z1,Zone 1,L009,Dlr,Light Rail,868,20,Pm Peak,Exit
+J00080,2026-02-10,S0205,Mile End Gate,B014,Brent,Z4,Zone 4,L015,Route 149,Bus,1288,1,Am Peak,Transfer
+J00081,2026-02-06,S0124,Green Park Central,B004,Islington,Z6,Zone 6,L006,District,Underground,369,1,Late Evening,Entry
+J00082,2026-02-08,S0204,Holborn Central,B010,Ealing,Z6,Zone 6,L011,Elizabeth Line,Rail,1026,2,Midday,Transfer
+J00083,2026-02-12,S0013,Canary Wharf Road,B006,Tower Hamlets,Z5,Zone 5,L008,Bakerloo,Underground,749,2,Midday,Entry
+J00084,2026-02-11,S0212,Baker Street Central,B006,Tower Hamlets,Z5,Zone 5,L015,Route 149,Bus,1667,0,Late Evening,Entry
+J00085,2026-02-08,S0159,Oxford Circus Interchange,B017,Bromley,Z5,Zone 5,L011,Elizabeth Line,Rail,262,12,Late Evening,Exit
+J00086,2026-02-25,S0088,Paddington Park,B004,Islington,Z4,Zone 4,L008,Bakerloo,Underground,1590,0,Pm Peak,Entry
+J00087,2026-02-15,S0219,Mile End Junction,B017,Bromley,Z5,Zone 5,L006,District,Underground,1461,0,Late Evening,Entry
+J00088,2026-02-02,S0028,Highbury Station,B020,Richmond Upon Thames,Z3,Zone 3,L016,Tramlink,Tram,1701,12,Am Peak,Entry
+J00089,2026-02-12,S0162,King's Cross Park,B011,Greenwich,Z6,Zone 6,L013,Route 38,Bus,1798,1,Midday,Transfer
+J00090,2026-02-16,S0075,Whitechapel Junction,B020,Richmond Upon Thames,Z5,Zone 5,L004,Piccadilly,Underground,1575,12,Am Peak,Entry
+J00091,2026-02-04,S0166,South Kensington Road,B008,Wandsworth,Z4,Zone 4,L005,Jubilee,Underground,700,0,Midday,Exit
+J00092,2026-02-11,S0107,Victoria Road,B007,Lambeth,Z4,Zone 4,L009,Dlr,Light Rail,517,7,Pm Peak,Transfer
+J00093,2026-02-23,S0044,Bow Road Interchange,B003,Southwark,Z4,Zone 4,L004,Piccadilly,Underground,559,3,Late Evening,Exit
+J00094,2026-02-14,S0162,King's Cross Park,B011,Greenwich,Z6,Zone 6,L013,Route 38,Bus,325,12,Midday,Entry
+J00095,2026-02-15,S0206,Walthamstow Station,B012,Lewisham,Z4,Zone 4,L004,Piccadilly,Underground,861,5,Pm Peak,Entry
+J00096,2026-02-23,S0114,London Bridge Junction,B006,Tower Hamlets,Z6,Zone 6,L009,Dlr,Light Rail,1592,0,Am Peak,Entry
+J00097,2026-02-14,S0087,South Kensington Junction,B013,Barnet,Z2,Zone 2,L005,Jubilee,Underground,837,0,Am Peak,Exit
+J00098,2026-02-05,S0195,Angel Gate,B004,Islington,Z3,Zone 3,L014,Route 73,Bus,1367,20,Am Peak,Transfer
+J00099,2026-02-22,S0183,Croydon Station,B013,Barnet,Z3,Zone 3,L007,Circle,Underground,873,5,Pm Peak,Transfer
+J00100,2026-02-27,S0191,Charing Cross Interchange,B003,Southwark,Z2,Zone 2,L009,Dlr,Light Rail,719,0,Pm Peak,Transfer
+J00101,2026-02-15,S0157,Clapham Common Park,B005,Hackney,Z4,Zone 4,L016,Tramlink,Tram,1449,5,Midday,Transfer
+J00103,2026-02-11,S0078,Lewisham Road,B011,Greenwich,Z6,Zone 6,L004,Piccadilly,Underground,90,12,Late Evening,Transfer
+J00104,2026-02-10,S0185,Canary Wharf Park,B018,Haringey,Z2,Zone 2,L007,Circle,Underground,1080,12,Midday,Entry
+J00105,2026-02-25,S0131,Stratford Station,B018,Haringey,Z4,Zone 4,L008,Bakerloo,Underground,1082,3,Midday,Entry
+J00106,2026-02-24,S0008,Bow Road Road,B004,Islington,Z4,Zone 4,L003,Victoria,Underground,509,2,Late Evening,Transfer
+J00107,2026-02-09,S0029,Victoria Central,B010,Ealing,Z2,Zone 2,L002,Northern,Underground,1738,3,Pm Peak,Entry
+J00108,2026-02-19,S0013,Canary Wharf Road,B006,Tower Hamlets,Z5,Zone 5,L008,Bakerloo,Underground,934,2,Am Peak,Exit
+J00109,2026-02-19,S0087,South Kensington Junction,B013,Barnet,Z2,Zone 2,L005,Jubilee,Underground,1664,15,Midday,Exit
+J00110,2026-02-22,S0077,Tottenham Hale Gate,B007,Lambeth,Z3,Zone 3,L014,Route 73,Bus,1380,15,Midday,Transfer
+J00111,2026-02-17,S0097,Shepherd's Bush Gate,B001,Camden,Z5,Zone 5,L013,Route 38,Bus,230,3,Midday,Exit
+J00112,2026-02-27,S0117,Blackfriars Gate,B013,Barnet,Z3,Zone 3,L001,Central,Underground,315,5,Late Evening,Entry
+J00113,2026-02-16,S0024,Tottenham Hale Park,B009,Hammersmith And Fulham,Z6,Zone 6,L011,Elizabeth Line,Rail,885,0,Midday,Exit
+J00114,2026-02-13,S0020,Euston Road,B016,Newham,Z1,Zone 1,L002,Northern,Underground,1401,12,Late Evening,Exit
+J00115,2026-02-15,S0150,Euston Central,B015,Croydon,Z6,Zone 6,L016,Tramlink,Tram,1318,5,Late Evening,Transfer
+J00116,2026-02-05,S0107,Victoria Road,B007,Lambeth,Z4,Zone 4,L009,Dlr,Light Rail,310,12,Late Evening,Transfer
+J00117,2026-02-28,S0118,Clapham Common Interchange,B012,Lewisham,Z3,Zone 3,L011,Elizabeth Line,Rail,1457,12,Am Peak,Transfer
+J00118,2026-02-24,S0055,Whitechapel Interchange,B009,Hammersmith And Fulham,Z4,Zone 4,L005,Jubilee,Underground,984,0,Midday,Transfer
+J00119,2026-02-04,S0095,King's Cross Interchange,B005,Hackney,Z2,Zone 2,L013,Route 38,Bus,1247,5,Am Peak,Exit
+J00120,2026-02-05,S0147,Paddington Gate,B018,Haringey,Z4,Zone 4,L014,Route 73,Bus,97,12,Am Peak,Exit
+J00121,2026-02-16,S0079,Ealing Broadway Gate,B014,Brent,Z3,Zone 3,L013,Route 38,Bus,636,2,Am Peak,Entry
+J00122,2026-02-10,S0037,Walthamstow Interchange,B009,Hammersmith And Fulham,Z6,Zone 6,L016,Tramlink,Tram,114,2,Midday,Entry
+J00123,2026-02-18,S0210,Oxford Circus Junction,B001,Camden,Z4,Zone 4,L003,Victoria,Underground,19,0,Pm Peak,Entry
+J00124,2026-02-10,S0012,Acton Central,B007,Lambeth,Z6,Zone 6,L009,Dlr,Light Rail,1000,15,Late Evening,Exit
+J00125,2026-02-05,S0201,Camden Town Park,B014,Brent,Z5,Zone 5,L001,Central,Underground,988,15,Midday,Transfer
+J00126,2026-02-22,S0163,King's Cross Junction,B004,Islington,Z6,Zone 6,L004,Piccadilly,Underground,1574,7,Late Evening,Entry
+J00127,2026-02-22,S0187,Bank Station,B001,Camden,Z2,Zone 2,L001,Central,Underground,197,15,Late Evening,Exit
+J00128,2026-02-02,S0060,Brixton Central,B020,Richmond Upon Thames,Z2,Zone 2,L011,Elizabeth Line,Rail,709,12,Late Evening,Transfer
+J00129,2026-02-23,S0072,Green Park Junction,B011,Greenwich,Z3,Zone 3,L003,Victoria,Underground,1788,0,Am Peak,Transfer
+J00130,2026-02-04,S0162,King's Cross Park,B011,Greenwich,Z6,Zone 6,L013,Route 38,Bus,1164,20,Am Peak,Entry
+J00131,2026-02-07,S0159,Oxford Circus Interchange,B017,Bromley,Z5,Zone 5,L011,Elizabeth Line,Rail,1182,12,Late Evening,Transfer
+J00132,2026-02-06,S0005,Shepherd's Bush Central,B001,Camden,Z2,Zone 2,L014,Route 73,Bus,1363,12,Am Peak,Exit
+J00133,2026-02-15,S0202,Brixton Station,B006,Tower Hamlets,Z3,Zone 3,L010,London Overground,Overground,517,15,Am Peak,Transfer
+J00134,2026-02-02,S0156,Brixton Park,B014,Brent,Z3,Zone 3,L009,Dlr,Light Rail,837,15,Late Evening,Entry
+J00135,2026-02-01,S0088,Paddington Park,B004,Islington,Z4,Zone 4,L008,Bakerloo,Underground,384,5,Pm Peak,Exit
+J00136,2026-02-18,S0066,Finsbury Park Gate,B008,Wandsworth,Z6,Zone 6,L004,Piccadilly,Underground,249,0,Midday,Exit
+J00137,2026-02-05,S0037,Walthamstow Interchange,B009,Hammersmith And Fulham,Z6,Zone 6,L016,Tramlink,Tram,538,0,Pm Peak,Exit
+J00138,2026-02-11,S0174,Tottenham Hale Central,B017,Bromley,Z5,Zone 5,L009,Dlr,Light Rail,135,15,Midday,Entry
+J00139,2026-02-04,S0183,Croydon Station,B013,Barnet,Z3,Zone 3,L007,Circle,Underground,625,5,Pm Peak,Entry
+J00140,2026-02-27,S0106,Baker Street Road,B005,Hackney,Z2,Zone 2,L005,Jubilee,Underground,543,5,Am Peak,Entry
+J00141,2026-02-19,S0052,Canary Wharf Gate,B008,Wandsworth,Z4,Zone 4,L004,Piccadilly,Underground,1555,15,Midday,Exit
+J00142,2026-02-02,S0131,Stratford Station,B018,Haringey,Z4,Zone 4,L008,Bakerloo,Underground,250,2,Pm Peak,Exit
+J00143,2026-02-01,S0142,Bank Junction,B017,Bromley,Z6,Zone 6,L015,Route 149,Bus,149,7,Late Evening,Transfer
+J00144,2026-02-19,S0060,Brixton Central,B020,Richmond Upon Thames,Z2,Zone 2,L011,Elizabeth Line,Rail,566,12,Am Peak,Entry
+J00145,2026-02-14,S0196,Wembley Park Central,B005,Hackney,Z6,Zone 6,L016,Tramlink,Tram,638,15,Late Evening,Entry
+J00146,2026-02-12,S0217,Blackfriars Central,B011,Greenwich,Z2,Zone 2,L015,Route 149,Bus,1618,0,Midday,Entry
+J00147,2026-02-02,S0138,Camden Town Gate,B005,Hackney,Z3,Zone 3,L005,Jubilee,Underground,1151,7,Am Peak,Exit
+J00148,2026-02-01,S0213,Moorgate Road,B013,Barnet,Z5,Zone 5,L003,Victoria,Underground,1352,0,Am Peak,Exit
+J00149,2026-02-13,S0070,Oxford Circus Park,B016,Newham,Z2,Zone 2,L007,Circle,Underground,1734,20,Pm Peak,Transfer
+J00150,2026-02-24,S0055,Whitechapel Interchange,B009,Hammersmith And Fulham,Z4,Zone 4,L005,Jubilee,Underground,108,0,Am Peak,Exit
+J00152,2026-02-20,S0143,Moorgate Gate,B016,Newham,Z1,Zone 1,L016,Tramlink,Tram,899,1,Pm Peak,Transfer
+J00153,2026-02-09,S0088,Paddington Park,B004,Islington,Z4,Zone 4,L008,Bakerloo,Underground,1556,7,Midday,Transfer
+J00154,2026-02-20,S0083,Charing Cross Gate,B011,Greenwich,Z4,Zone 4,L015,Route 149,Bus,446,7,Pm Peak,Entry
+J00155,2026-02-20,S0178,Acton Gate,B009,Hammersmith And Fulham,Z5,Zone 5,L013,Route 38,Bus,1338,0,Late Evening,Entry
+J00156,2026-02-23,S0003,Baker Street Station,B007,Lambeth,Z2,Zone 2,L001,Central,Underground,861,12,Late Evening,Exit
+J00157,2026-02-21,S0138,Camden Town Gate,B005,Hackney,Z3,Zone 3,L005,Jubilee,Underground,1627,20,Am Peak,Transfer
+J00158,2026-02-12,S0008,Bow Road Road,B004,Islington,Z4,Zone 4,L003,Victoria,Underground,1391,0,Late Evening,Transfer
+J00159,2026-02-04,S0092,Elephant & Castle Junction,B009,Hammersmith And Fulham,Z2,Zone 2,L009,Dlr,Light Rail,377,0,Late Evening,Exit
+J00160,2026-02-24,S0050,Whitechapel Station,B002,Westminster,Z5,Zone 5,L016,Tramlink,Tram,34,1,Am Peak,Exit
+J00161,2026-02-27,S0175,Wembley Park Park,B016,Newham,Z3,Zone 3,L011,Elizabeth Line,Rail,407,0,Pm Peak,Transfer
+J00162,2026-02-02,S0057,Stratford Central,B010,Ealing,Z2,Zone 2,L015,Route 149,Bus,1026,3,Pm Peak,Exit
+J00163,2026-02-27,S0181,Oxford Circus Gate,B012,Lewisham,Z2,Zone 2,L015,Route 149,Bus,29,1,Late Evening,Entry
+J00164,2026-02-07,S0072,Green Park Junction,B011,Greenwich,Z3,Zone 3,L003,Victoria,Underground,364,12,Midday,Entry
+J00165,2026-02-05,S0151,Baker Street Gate,B020,Richmond Upon Thames,Z2,Zone 2,L006,District,Underground,1542,0,Pm Peak,Transfer
+J00166,2026-02-07,S0220,Lewisham Station,B011,Greenwich,Z1,Zone 1,L013,Route 38,Bus,1086,2,Am Peak,Transfer
+J00167,2026-02-15,S0174,Tottenham Hale Central,B017,Bromley,Z5,Zone 5,L009,Dlr,Light Rail,1409,12,Am Peak,Exit
+J00168,2026-02-14,S0165,Angel Road,B006,Tower Hamlets,Z2,Zone 2,L006,District,Underground,1763,3,Late Evening,Exit
+J00169,2026-02-17,S0032,Highbury Park,B020,Richmond Upon Thames,Z4,Zone 4,L007,Circle,Underground,1029,3,Am Peak,Transfer
+J00170,2026-02-18,S0058,Ealing Broadway Road,B017,Bromley,Z1,Zone 1,L010,London Overground,Overground,584,5,Late Evening,Exit
+J00171,2026-02-03,S0002,Waterloo Gate,B018,Haringey,Z1,Zone 1,L014,Route 73,Bus,413,3,Am Peak,Transfer
+J00172,2026-02-07,S0058,Ealing Broadway Road,B017,Bromley,Z1,Zone 1,L010,London Overground,Overground,167,1,Midday,Exit
+J00173,2026-02-04,S0080,Hammersmith Road,B005,Hackney,Z2,Zone 2,L014,Route 73,Bus,1297,20,Am Peak,Exit
+J00174,2026-02-11,S0111,Charing Cross Park,B004,Islington,Z5,Zone 5,L002,Northern,Underground,1228,20,Pm Peak,Entry
+J00175,2026-02-27,S0028,Highbury Station,B020,Richmond Upon Thames,Z3,Zone 3,L016,Tramlink,Tram,503,3,Am Peak,Exit
+J00176,2026-02-20,S0134,Finsbury Park Central,B003,Southwark,Z2,Zone 2,L008,Bakerloo,Underground,164,15,Late Evening,Entry
+J00177,2026-02-03,S0161,London Bridge Station,B016,Newham,Z3,Zone 3,L011,Elizabeth Line,Rail,1200,0,Am Peak,Entry
+J00178,2026-02-26,S0097,Shepherd's Bush Gate,B001,Camden,Z5,Zone 5,L013,Route 38,Bus,1751,0,Midday,Entry
+J00179,2026-02-20,S0206,Walthamstow Station,B012,Lewisham,Z4,Zone 4,L004,Piccadilly,Underground,127,2,Late Evening,Entry
+J00180,2026-02-10,S0027,Walthamstow Road,B007,Lambeth,Z2,Zone 2,L012,Route 24,Bus,1160,0,Late Evening,Exit
+J00181,2026-02-26,S0025,Hammersmith Junction,B006,Tower Hamlets,Z4,Zone 4,L001,Central,Underground,492,15,Am Peak,Exit
+J00182,2026-02-20,S0099,Camden Town Central,B014,Brent,Z4,Zone 4,L001,Central,Underground,1643,5,Am Peak,Exit
+J00183,2026-02-11,S0167,Wembley Park Junction,B009,Hammersmith And Fulham,Z6,Zone 6,L001,Central,Underground,944,12,Midday,Entry
+J00184,2026-02-19,S0027,Walthamstow Road,B007,Lambeth,Z2,Zone 2,L012,Route 24,Bus,1233,0,Midday,Transfer
+J00185,2026-02-16,S0033,Ealing Broadway Junction,B012,Lewisham,Z4,Zone 4,L015,Route 149,Bus,742,5,Late Evening,Entry
+J00186,2026-02-02,S0063,Mile End Road,B014,Brent,Z5,Zone 5,L001,Central,Underground,1647,0,Midday,Exit
+J00187,2026-02-25,S0150,Euston Central,B015,Croydon,Z6,Zone 6,L016,Tramlink,Tram,1065,20,Pm Peak,Exit
+J00188,2026-02-10,S0150,Euston Central,B015,Croydon,Z6,Zone 6,L016,Tramlink,Tram,316,7,Pm Peak,Exit
+J00189,2026-02-22,S0095,King's Cross Interchange,B005,Hackney,Z2,Zone 2,L013,Route 38,Bus,1075,15,Midday,Entry
+J00190,2026-02-07,S0061,Clapham Common Central,B002,Westminster,Z1,Zone 1,L014,Route 73,Bus,879,3,Midday,Transfer
+J00191,2026-02-22,S0052,Canary Wharf Gate,B008,Wandsworth,Z4,Zone 4,L004,Piccadilly,Underground,714,1,Late Evening,Transfer
+J00192,2026-02-28,S0178,Acton Gate,B009,Hammersmith And Fulham,Z5,Zone 5,L013,Route 38,Bus,1243,3,Pm Peak,Transfer
+J00193,2026-02-04,S0077,Tottenham Hale Gate,B007,Lambeth,Z3,Zone 3,L014,Route 73,Bus,688,0,Late Evening,Entry
+J00194,2026-02-08,S0127,Richmond Central,B005,Hackney,Z6,Zone 6,L016,Tramlink,Tram,22,20,Midday,Exit
+J00195,2026-02-24,S0160,Mile End Station,B017,Bromley,Z4,Zone 4,L001,Central,Underground,504,7,Pm Peak,Transfer
+J00196,2026-02-27,S0097,Shepherd's Bush Gate,B001,Camden,Z5,Zone 5,L013,Route 38,Bus,834,0,Am Peak,Exit
+J00197,2026-02-18,S0003,Baker Street Station,B007,Lambeth,Z2,Zone 2,L001,Central,Underground,747,0,Am Peak,Entry
+J00198,2026-02-19,S0075,Whitechapel Junction,B020,Richmond Upon Thames,Z5,Zone 5,L004,Piccadilly,Underground,413,20,Pm Peak,Entry
+J00199,2026-02-06,S0008,Bow Road Road,B004,Islington,Z4,Zone 4,L003,Victoria,Underground,420,2,Midday,Exit
+J00200,2026-02-08,S0185,Canary Wharf Park,B018,Haringey,Z2,Zone 2,L007,Circle,Underground,710,12,Midday,Entry
+J00201,2026-02-04,S0006,Brixton Interchange,B007,Lambeth,Z3,Zone 3,L004,Piccadilly,Underground,1741,2,Am Peak,Transfer
+J00202,2026-02-11,S0036,Liverpool Street Interchange,B003,Southwark,Z1,Zone 1,L011,Elizabeth Line,Rail,1356,0,Midday,Exit
+J00203,2026-02-22,S0117,Blackfriars Gate,B013,Barnet,Z3,Zone 3,L001,Central,Underground,772,3,Midday,Transfer
+J00204,2026-02-04,S0205,Mile End Gate,B014,Brent,Z4,Zone 4,L015,Route 149,Bus,1471,0,Midday,Entry
+J00205,2026-02-13,S0204,Holborn Central,B010,Ealing,Z6,Zone 6,L011,Elizabeth Line,Rail,407,12,Pm Peak,Exit
+J00206,2026-02-02,S0154,Brixton Junction,B016,Newham,Z4,Zone 4,L008,Bakerloo,Underground,1317,1,Midday,Transfer
+J00207,2026-02-02,S0076,Kew Gardens Interchange,B009,Hammersmith And Fulham,Z1,Zone 1,L014,Route 73,Bus,686,1,Pm Peak,Entry
+J00208,2026-02-26,S0218,Liverpool Street Junction,B004,Islington,Z3,Zone 3,L003,Victoria,Underground,443,0,Late Evening,Transfer
+J00209,2026-02-13,S0158,Angel Station,B011,Greenwich,Z6,Zone 6,L016,Tramlink,Tram,357,12,Pm Peak,Exit
+J00210,2026-02-23,S0133,Blackfriars Station,B020,Richmond Upon Thames,Z6,Zone 6,L004,Piccadilly,Underground,381,3,Pm Peak,Transfer
+J00211,2026-02-16,S0178,Acton Gate,B009,Hammersmith And Fulham,Z5,Zone 5,L013,Route 38,Bus,1480,7,Pm Peak,Transfer
+J00213,2026-02-13,S0102,Moorgate Interchange,B015,Croydon,Z2,Zone 2,L002,Northern,Underground,641,5,Midday,Exit
+J00214,2026-02-10,S0066,Finsbury Park Gate,B008,Wandsworth,Z6,Zone 6,L004,Piccadilly,Underground,290,0,Late Evening,Transfer
+J00215,2026-02-15,S0091,Blackfriars Park,B017,Bromley,Z4,Zone 4,L015,Route 149,Bus,1210,0,Pm Peak,Exit
+J00216,2026-02-12,S0116,King's Cross Central,B015,Croydon,Z2,Zone 2,L015,Route 149,Bus,900,5,Late Evening,Exit
+J00217,2026-02-15,S0070,Oxford Circus Park,B016,Newham,Z2,Zone 2,L007,Circle,Underground,65,0,Midday,Exit
+J00218,2026-02-10,S0166,South Kensington Road,B008,Wandsworth,Z4,Zone 4,L005,Jubilee,Underground,750,0,Am Peak,Exit
+J00219,2026-02-12,S0059,Waterloo Interchange,B009,Hammersmith And Fulham,Z1,Zone 1,L004,Piccadilly,Underground,257,0,Am Peak,Transfer
+J00220,2026-02-11,S0052,Canary Wharf Gate,B008,Wandsworth,Z4,Zone 4,L004,Piccadilly,Underground,417,20,Pm Peak,Exit
+J00221,2026-02-05,S0191,Charing Cross Interchange,B003,Southwark,Z2,Zone 2,L009,Dlr,Light Rail,405,15,Pm Peak,Entry
+J00222,2026-02-26,S0198,Victoria Junction,B012,Lewisham,Z6,Zone 6,L014,Route 73,Bus,592,3,Late Evening,Exit
+J00223,2026-02-17,S0211,Kew Gardens Junction,B019,Kensington And Chelsea,Z4,Zone 4,L014,Route 73,Bus,981,20,Midday,Exit
+J00224,2026-02-16,S0059,Waterloo Interchange,B009,Hammersmith And Fulham,Z1,Zone 1,L004,Piccadilly,Underground,1496,1,Midday,Transfer
+J00225,2026-02-11,S0151,Baker Street Gate,B020,Richmond Upon Thames,Z2,Zone 2,L006,District,Underground,1494,7,Am Peak,Exit
+J00226,2026-02-07,S0217,Blackfriars Central,B011,Greenwich,Z2,Zone 2,L015,Route 149,Bus,893,5,Late Evening,Exit
+J00227,2026-02-19,S0219,Mile End Junction,B017,Bromley,Z5,Zone 5,L006,District,Underground,782,0,Midday,Exit
+J00228,2026-02-27,S0189,Camden Town Road,B002,Westminster,Z6,Zone 6,L010,London Overground,Overground,1038,20,Pm Peak,Exit
+J00229,2026-02-25,S0058,Ealing Broadway Road,B017,Bromley,Z1,Zone 1,L010,London Overground,Overground,886,20,Late Evening,Transfer
+J00230,2026-02-01,S0138,Camden Town Gate,B005,Hackney,Z3,Zone 3,L005,Jubilee,Underground,682,15,Am Peak,Entry
+J00231,2026-02-26,S0040,Moorgate Central,B014,Brent,Z4,Zone 4,L015,Route 149,Bus,1178,20,Late Evening,Exit
+J00232,2026-02-13,S0053,Stratford Road,B020,Richmond Upon Thames,Z1,Zone 1,L003,Victoria,Underground,145,12,Midday,Exit
+J00233,2026-02-21,S0028,Highbury Station,B020,Richmond Upon Thames,Z3,Zone 3,L016,Tramlink,Tram,1181,7,Pm Peak,Entry
+J00234,2026-02-06,S0044,Bow Road Interchange,B003,Southwark,Z4,Zone 4,L004,Piccadilly,Underground,1397,12,Am Peak,Transfer
+J00235,2026-02-07,S0155,South Kensington Interchange,B020,Richmond Upon Thames,Z5,Zone 5,L005,Jubilee,Underground,69,0,Am Peak,Exit
+J00236,2026-02-22,S0073,Croydon Gate,B017,Bromley,Z4,Zone 4,L011,Elizabeth Line,Rail,492,2,Am Peak,Exit
+J00237,2026-02-06,S0015,Whitechapel Park,B002,Westminster,Z2,Zone 2,L002,Northern,Underground,1076,0,Pm Peak,Exit
+J00238,2026-02-18,S0101,Tottenham Hale Station,B013,Barnet,Z5,Zone 5,L001,Central,Underground,241,0,Late Evening,Exit
+J00239,2026-02-05,S0191,Charing Cross Interchange,B003,Southwark,Z2,Zone 2,L009,Dlr,Light Rail,811,1,Midday,Exit
+J00240,2026-02-19,S0111,Charing Cross Park,B004,Islington,Z5,Zone 5,L002,Northern,Underground,340,15,Pm Peak,Transfer
