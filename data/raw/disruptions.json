@@ -1,0 +1,1982 @@
+[
+  {
+    "disruption_id": "D00001",
+    "line_id": "L007",
+    "disruption_type": "Congestion",
+    "severity": "Critical",
+    "affected_station_id": "S0071",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00002",
+    "line_id": "L005",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0212",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00003",
+    "line_id": "L008",
+    "disruption_type": "Congestion",
+    "severity": "High",
+    "affected_station_id": "S0146",
+    "disruption_date": "2026-02-16",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00004",
+    "line_id": "L015",
+    "disruption_type": "Congestion",
+    "severity": "Low",
+    "affected_station_id": "S0189",
+    "disruption_date": "2026-02-03",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00005",
+    "line_id": "L015",
+    "disruption_type": "Power Issue",
+    "severity": "High",
+    "affected_station_id": "S0101",
+    "disruption_date": "2026-02-20",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00006",
+    "line_id": "L006",
+    "disruption_type": "Staff Shortage",
+    "severity": "Medium",
+    "affected_station_id": "S0046",
+    "disruption_date": "2026-02-20",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00007",
+    "line_id": "L014",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0169",
+    "disruption_date": "2026-02-06",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00008",
+    "line_id": "L004",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0062",
+    "disruption_date": "2026-02-28",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00009",
+    "line_id": "L009",
+    "disruption_type": "Vehicle Fault",
+    "severity": "High",
+    "affected_station_id": "S0171",
+    "disruption_date": "2026-02-03",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00010",
+    "line_id": "L007",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0196",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00011",
+    "line_id": "L012",
+    "disruption_type": "Signal Failure",
+    "severity": "Low",
+    "affected_station_id": "S0130",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00012",
+    "line_id": "L011",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0043",
+    "disruption_date": "2026-02-09",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00013",
+    "line_id": "L002",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0019",
+    "disruption_date": "2026-02-21",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00014",
+    "line_id": "L015",
+    "disruption_type": "Staff Shortage",
+    "severity": "High",
+    "affected_station_id": "S0191",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00015",
+    "line_id": "L007",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0003",
+    "disruption_date": "2026-02-09",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00016",
+    "line_id": "L005",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0125",
+    "disruption_date": "2026-02-15",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00017",
+    "line_id": "L003",
+    "disruption_type": "Congestion",
+    "severity": "Medium",
+    "affected_station_id": "S0183",
+    "disruption_date": "2026-02-15",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00018",
+    "line_id": "L016",
+    "disruption_type": "Power Issue",
+    "severity": "Medium",
+    "affected_station_id": "S0044",
+    "disruption_date": "2026-02-27",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00019",
+    "line_id": "L004",
+    "disruption_type": "Planned Works",
+    "severity": "High",
+    "affected_station_id": "S0032",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00020",
+    "line_id": "L013",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0172",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "unknown"
+  },
+  {
+    "disruption_id": "D00021",
+    "line_id": "L009",
+    "disruption_type": "Planned Works",
+    "severity": "Critical",
+    "affected_station_id": "S0092",
+    "disruption_date": "2026-02-06",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00022",
+    "line_id": "L002",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0114",
+    "disruption_date": "2026-02-23",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00023",
+    "line_id": "L004",
+    "disruption_type": "Staff Shortage",
+    "severity": "High",
+    "affected_station_id": "S0114",
+    "disruption_date": "2026-02-02",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00024",
+    "line_id": "L001",
+    "disruption_type": "Signal Failure",
+    "severity": "Critical",
+    "affected_station_id": "S0197",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00025",
+    "line_id": "L012",
+    "disruption_type": "Planned Works",
+    "severity": "Medium",
+    "affected_station_id": "S0024",
+    "disruption_date": "2026-02-01",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00026",
+    "line_id": "L001",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0211",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00027",
+    "line_id": "L003",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0205",
+    "disruption_date": "2026-02-27",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00028",
+    "line_id": "L006",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0012",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00029",
+    "line_id": "L004",
+    "disruption_type": "Power Issue",
+    "severity": "High",
+    "affected_station_id": "S0144",
+    "disruption_date": "2026-02-21",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00030",
+    "line_id": "L007",
+    "disruption_type": "Congestion",
+    "severity": "Critical",
+    "affected_station_id": "S0110",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00031",
+    "line_id": "L007",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0083",
+    "disruption_date": "2026-02-06",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00032",
+    "line_id": "L013",
+    "disruption_type": "Vehicle Fault",
+    "severity": "High",
+    "affected_station_id": "S0004",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00033",
+    "line_id": "L015",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0169",
+    "disruption_date": "2026-02-27",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00034",
+    "line_id": "L012",
+    "disruption_type": "Signal Failure",
+    "severity": "Low",
+    "affected_station_id": "S0056",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00035",
+    "line_id": "L016",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0065",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00036",
+    "line_id": "L011",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0174",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00037",
+    "line_id": "L005",
+    "disruption_type": "Power Issue",
+    "severity": "Medium",
+    "affected_station_id": "S0163",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00038",
+    "line_id": "L011",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0018",
+    "disruption_date": "2026-02-11",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00039",
+    "line_id": "L015",
+    "disruption_type": "Staff Shortage",
+    "severity": "Medium",
+    "affected_station_id": "S0129",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00040",
+    "line_id": "L001",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0158",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00041",
+    "line_id": "L010",
+    "disruption_type": "Planned Works",
+    "severity": "Critical",
+    "affected_station_id": "S0194",
+    "disruption_date": "2026-02-08",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00042",
+    "line_id": "L003",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0096",
+    "disruption_date": "2026-02-16",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00043",
+    "line_id": "L007",
+    "disruption_type": "Planned Works",
+    "severity": "Critical",
+    "affected_station_id": "S0053",
+    "disruption_date": "2026-02-21",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00044",
+    "line_id": "L008",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0190",
+    "disruption_date": "2026-02-11",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00045",
+    "line_id": "L009",
+    "disruption_type": "Power Issue",
+    "severity": "Low",
+    "affected_station_id": "S0134",
+    "disruption_date": "2026-02-26",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00046",
+    "line_id": "L010",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0217",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00047",
+    "line_id": "L011",
+    "disruption_type": "Planned Works",
+    "severity": "Medium",
+    "affected_station_id": "S0139",
+    "disruption_date": "2026-02-02",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00048",
+    "line_id": "L008",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0156",
+    "disruption_date": "2026-02-28",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00049",
+    "line_id": "L011",
+    "disruption_type": "Planned Works",
+    "severity": "Critical",
+    "affected_station_id": "S0162",
+    "disruption_date": "2026-02-01",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00050",
+    "line_id": "L016",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0014",
+    "disruption_date": "2026-02-21",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00051",
+    "line_id": "L007",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0045",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00052",
+    "line_id": "L007",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0110",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00053",
+    "line_id": "L010",
+    "disruption_type": "Planned Works",
+    "severity": "Medium",
+    "affected_station_id": "S0063",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00054",
+    "line_id": "L008",
+    "disruption_type": "Power Issue",
+    "severity": "High",
+    "affected_station_id": "S0148",
+    "disruption_date": "2026-02-15",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00055",
+    "line_id": "L007",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0021",
+    "disruption_date": "2026-02-12",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00056",
+    "line_id": "L013",
+    "disruption_type": "Planned Works",
+    "severity": "Critical",
+    "affected_station_id": "S0113",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00057",
+    "line_id": "L014",
+    "disruption_type": "Planned Works",
+    "severity": "Critical",
+    "affected_station_id": "S0006",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00058",
+    "line_id": "L014",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0153",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00059",
+    "line_id": "L006",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0119",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00060",
+    "line_id": "L010",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0019",
+    "disruption_date": "2026-02-11",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00061",
+    "line_id": "L016",
+    "disruption_type": "Planned Works",
+    "severity": "Medium",
+    "affected_station_id": "S0049",
+    "disruption_date": "2026-02-01",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00062",
+    "line_id": "L012",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0107",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00063",
+    "line_id": "L012",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0079",
+    "disruption_date": "2026-02-21",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00064",
+    "line_id": "L003",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0032",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00065",
+    "line_id": "L006",
+    "disruption_type": "Planned Works",
+    "severity": "Critical",
+    "affected_station_id": "S0066",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00066",
+    "line_id": "L012",
+    "disruption_type": "Congestion",
+    "severity": "Critical",
+    "affected_station_id": "S0163",
+    "disruption_date": "2026-02-23",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00067",
+    "line_id": "L002",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0109",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00068",
+    "line_id": "L008",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0209",
+    "disruption_date": "2026-02-12",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00069",
+    "line_id": "L001",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0067",
+    "disruption_date": "2026-02-20",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00070",
+    "line_id": "L005",
+    "disruption_type": "Power Issue",
+    "severity": "Medium",
+    "affected_station_id": "S0155",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00071",
+    "line_id": "L006",
+    "disruption_type": "Signal Failure",
+    "severity": "Low",
+    "affected_station_id": "S0198",
+    "disruption_date": "2026-02-03",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00072",
+    "line_id": "L013",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0133",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00073",
+    "line_id": "L006",
+    "disruption_type": "Staff Shortage",
+    "severity": "High",
+    "affected_station_id": "S0178",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00074",
+    "line_id": "L013",
+    "disruption_type": "Congestion",
+    "severity": "High",
+    "affected_station_id": "S0188",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00075",
+    "line_id": "L003",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0209",
+    "disruption_date": "2026-02-05",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00076",
+    "line_id": "L007",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0179",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00077",
+    "line_id": "L006",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0025",
+    "disruption_date": "2026-02-03",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00078",
+    "line_id": "L014",
+    "disruption_type": "Congestion",
+    "severity": "Critical",
+    "affected_station_id": "S0168",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00079",
+    "line_id": "L014",
+    "disruption_type": "Planned Works",
+    "severity": "Medium",
+    "affected_station_id": "S0096",
+    "disruption_date": "2026-02-06",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00080",
+    "line_id": "L005",
+    "disruption_type": "Planned Works",
+    "severity": "Critical",
+    "affected_station_id": "S0047",
+    "disruption_date": "2026-02-17",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00081",
+    "line_id": "L404",
+    "disruption_type": "Congestion",
+    "severity": "Medium",
+    "affected_station_id": "S0048",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00082",
+    "line_id": "L006",
+    "disruption_type": "Planned Works",
+    "severity": "High",
+    "affected_station_id": "S0105",
+    "disruption_date": "2026-02-15",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00083",
+    "line_id": "L004",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0021",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00084",
+    "line_id": "L013",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0017",
+    "disruption_date": "2026-02-11",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00085",
+    "line_id": "L008",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0173",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00086",
+    "line_id": "L001",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0193",
+    "disruption_date": "2026-02-01",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00087",
+    "line_id": "L002",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0134",
+    "disruption_date": "2026-02-26",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00088",
+    "line_id": "L013",
+    "disruption_type": "Congestion",
+    "severity": "High",
+    "affected_station_id": "S0125",
+    "disruption_date": "2026-02-16",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00089",
+    "line_id": "L011",
+    "disruption_type": "Congestion",
+    "severity": "Critical",
+    "affected_station_id": "S0087",
+    "disruption_date": "2026-02-12",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00090",
+    "line_id": "L011",
+    "disruption_type": "Power Issue",
+    "severity": "Medium",
+    "affected_station_id": "S0093",
+    "disruption_date": "2026-02-22",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00091",
+    "line_id": "L013",
+    "disruption_type": "Congestion",
+    "severity": "Low",
+    "affected_station_id": "S0092",
+    "disruption_date": "2026-02-28",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00092",
+    "line_id": "L004",
+    "disruption_type": "Signal Failure",
+    "severity": "Critical",
+    "affected_station_id": "S0179",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00093",
+    "line_id": "L005",
+    "disruption_type": "Signal Failure",
+    "severity": "Low",
+    "affected_station_id": "S0136",
+    "disruption_date": "2026-02-09",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00094",
+    "line_id": "L008",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0159",
+    "disruption_date": "2026-02-22",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00095",
+    "line_id": "L016",
+    "disruption_type": "Congestion",
+    "severity": "Critical",
+    "affected_station_id": "S0170",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00096",
+    "line_id": "L011",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0012",
+    "disruption_date": "2026-02-26",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00097",
+    "line_id": "L011",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0060",
+    "disruption_date": "2026-02-20",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00098",
+    "line_id": "L013",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Low",
+    "affected_station_id": "S0090",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00099",
+    "line_id": "L004",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0076",
+    "disruption_date": "2026-02-20",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00100",
+    "line_id": "L005",
+    "disruption_type": "Congestion",
+    "severity": "Low",
+    "affected_station_id": "S0033",
+    "disruption_date": "2026-02-16",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00101",
+    "line_id": "L003",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0044",
+    "disruption_date": "2026-02-15",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00102",
+    "line_id": "L016",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0063",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00103",
+    "line_id": "L003",
+    "disruption_type": "Signal Failure",
+    "severity": "Critical",
+    "affected_station_id": "S0184",
+    "disruption_date": "2026-02-01",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00104",
+    "line_id": "L011",
+    "disruption_type": "Staff Shortage",
+    "severity": "High",
+    "affected_station_id": "S0057",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00105",
+    "line_id": "L016",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Low",
+    "affected_station_id": "S0171",
+    "disruption_date": "2026-02-05",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00106",
+    "line_id": "L016",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0058",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00107",
+    "line_id": "L003",
+    "disruption_type": "Vehicle Fault",
+    "severity": "High",
+    "affected_station_id": "S0097",
+    "disruption_date": "2026-02-23",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00108",
+    "line_id": "L013",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0207",
+    "disruption_date": "2026-02-08",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00109",
+    "line_id": "L009",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0023",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00110",
+    "line_id": "L011",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0191",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00111",
+    "line_id": "L012",
+    "disruption_type": "Planned Works",
+    "severity": "High",
+    "affected_station_id": "S0098",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00112",
+    "line_id": "L001",
+    "disruption_type": "Power Issue",
+    "severity": "Low",
+    "affected_station_id": "S0152",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00113",
+    "line_id": "L013",
+    "disruption_type": "Staff Shortage",
+    "severity": "High",
+    "affected_station_id": "S0198",
+    "disruption_date": "2026-02-12",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00114",
+    "line_id": "L005",
+    "disruption_type": "Congestion",
+    "severity": "Medium",
+    "affected_station_id": "S0028",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00115",
+    "line_id": "L015",
+    "disruption_type": "Power Issue",
+    "severity": "Medium",
+    "affected_station_id": "S0209",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00116",
+    "line_id": "L008",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0038",
+    "disruption_date": "2026-02-20",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00117",
+    "line_id": "L005",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Low",
+    "affected_station_id": "S0154",
+    "disruption_date": "2026-02-11",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00118",
+    "line_id": "L004",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0162",
+    "disruption_date": "2026-02-27",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00119",
+    "line_id": "L016",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0016",
+    "disruption_date": "2026-02-26",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00120",
+    "line_id": "L005",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0218",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00121",
+    "line_id": "L008",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Low",
+    "affected_station_id": "S0199",
+    "disruption_date": "2026-02-06",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00122",
+    "line_id": "L016",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0077",
+    "disruption_date": "2026-02-27",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00123",
+    "line_id": "L006",
+    "disruption_type": "Signal Failure",
+    "severity": "Critical",
+    "affected_station_id": "S0087",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00124",
+    "line_id": "L016",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0101",
+    "disruption_date": "2026-02-03",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00125",
+    "line_id": "L010",
+    "disruption_type": "Power Issue",
+    "severity": "Medium",
+    "affected_station_id": "S0180",
+    "disruption_date": "2026-02-28",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00126",
+    "line_id": "L013",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0083",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00127",
+    "line_id": "L002",
+    "disruption_type": "Vehicle Fault",
+    "severity": "High",
+    "affected_station_id": "S0118",
+    "disruption_date": "2026-02-21",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00128",
+    "line_id": "L005",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0075",
+    "disruption_date": "2026-02-05",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00129",
+    "line_id": "L007",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0189",
+    "disruption_date": "2026-02-21",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00130",
+    "line_id": "L012",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Low",
+    "affected_station_id": "S0174",
+    "disruption_date": "2026-02-26",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00131",
+    "line_id": "L005",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0174",
+    "disruption_date": "2026-02-27",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00132",
+    "line_id": "L002",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0122",
+    "disruption_date": "2026-02-06",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00133",
+    "line_id": "L004",
+    "disruption_type": "Congestion",
+    "severity": "High",
+    "affected_station_id": "S0152",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00134",
+    "line_id": "L013",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0031",
+    "disruption_date": "2026-02-08",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00135",
+    "line_id": "L016",
+    "disruption_type": "Power Issue",
+    "severity": "Medium",
+    "affected_station_id": "S0168",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00136",
+    "line_id": "L003",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0071",
+    "disruption_date": "2026-02-21",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00137",
+    "line_id": "L015",
+    "disruption_type": "Power Issue",
+    "severity": "Low",
+    "affected_station_id": "S0031",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00138",
+    "line_id": "L004",
+    "disruption_type": "Staff Shortage",
+    "severity": "Medium",
+    "affected_station_id": "S0006",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00139",
+    "line_id": "L016",
+    "disruption_type": "Power Issue",
+    "severity": "Low",
+    "affected_station_id": "S0204",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00140",
+    "line_id": "L013",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0077",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00141",
+    "line_id": "L004",
+    "disruption_type": "Power Issue",
+    "severity": "critical",
+    "affected_station_id": "S0183",
+    "disruption_date": "2026-02-28",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00142",
+    "line_id": "L006",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0101",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00143",
+    "line_id": "L016",
+    "disruption_type": "Signal Failure",
+    "severity": "Low",
+    "affected_station_id": "S0193",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00144",
+    "line_id": "L004",
+    "disruption_type": "Planned Works",
+    "severity": "Medium",
+    "affected_station_id": "S0002",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00145",
+    "line_id": "L011",
+    "disruption_type": "Signal Failure",
+    "severity": "Low",
+    "affected_station_id": "S0033",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00146",
+    "line_id": "L006",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0218",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00147",
+    "line_id": "L003",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0094",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00148",
+    "line_id": "L014",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Low",
+    "affected_station_id": "S0064",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00149",
+    "line_id": "L010",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0036",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00150",
+    "line_id": "L011",
+    "disruption_type": "Congestion",
+    "severity": "High",
+    "affected_station_id": "S0156",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00151",
+    "line_id": "L007",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Low",
+    "affected_station_id": "S0170",
+    "disruption_date": "2026-02-27",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00152",
+    "line_id": "L008",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0037",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00153",
+    "line_id": "L007",
+    "disruption_type": "Planned Works",
+    "severity": "Medium",
+    "affected_station_id": "S0152",
+    "disruption_date": "2026-02-12",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00154",
+    "line_id": "L005",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0020",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00155",
+    "line_id": "L009",
+    "disruption_type": "Staff Shortage",
+    "severity": "Medium",
+    "affected_station_id": "S0103",
+    "disruption_date": "2026-02-15",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00156",
+    "line_id": "L009",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0178",
+    "disruption_date": "2026-02-05",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00157",
+    "line_id": "L007",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0163",
+    "disruption_date": "2026-02-23",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00158",
+    "line_id": "L007",
+    "disruption_type": "Vehicle Fault",
+    "severity": "High",
+    "affected_station_id": "S0145",
+    "disruption_date": "2026-02-22",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00159",
+    "line_id": "L006",
+    "disruption_type": "Staff Shortage",
+    "severity": "Medium",
+    "affected_station_id": "S0081",
+    "disruption_date": "2026-02-26",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00160",
+    "line_id": "L013",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0020",
+    "disruption_date": "2026-02-09",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00161",
+    "line_id": "L004",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0017",
+    "disruption_date": "2026-02-11",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00162",
+    "line_id": "L003",
+    "disruption_type": "Power Issue",
+    "severity": "High",
+    "affected_station_id": "S0200",
+    "disruption_date": "2026-02-09",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00163",
+    "line_id": "L008",
+    "disruption_type": "Power Issue",
+    "severity": "Low",
+    "affected_station_id": "S0026",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00164",
+    "line_id": "L013",
+    "disruption_type": "Signal Failure",
+    "severity": "Low",
+    "affected_station_id": "S0045",
+    "disruption_date": "2026-02-17",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00165",
+    "line_id": "L010",
+    "disruption_type": "Congestion",
+    "severity": "Critical",
+    "affected_station_id": "S0025",
+    "disruption_date": "2026-02-17",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00166",
+    "line_id": "L010",
+    "disruption_type": "Congestion",
+    "severity": "High",
+    "affected_station_id": "S0156",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00167",
+    "line_id": "L006",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0047",
+    "disruption_date": "2026-02-12",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00168",
+    "line_id": "L013",
+    "disruption_type": "Staff Shortage",
+    "severity": "Medium",
+    "affected_station_id": "S0067",
+    "disruption_date": "2026-02-01",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00169",
+    "line_id": "L005",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0037",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00170",
+    "line_id": "L009",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0182",
+    "disruption_date": "2026-02-25",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00171",
+    "line_id": "L014",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0047",
+    "disruption_date": "2026-02-15",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00172",
+    "line_id": "L015",
+    "disruption_type": "Congestion",
+    "severity": "High",
+    "affected_station_id": "S0071",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00173",
+    "line_id": "L008",
+    "disruption_type": "Power Issue",
+    "severity": "Low",
+    "affected_station_id": "S0079",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00174",
+    "line_id": "L011",
+    "disruption_type": "Signal Failure",
+    "severity": "Low",
+    "affected_station_id": "S0020",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00175",
+    "line_id": "L003",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0022",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00176",
+    "line_id": "L016",
+    "disruption_type": "Signal Failure",
+    "severity": "Critical",
+    "affected_station_id": "S0174",
+    "disruption_date": "2026-02-17",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00177",
+    "line_id": "L005",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0132",
+    "disruption_date": "2026-02-22",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00178",
+    "line_id": "L004",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0158",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00179",
+    "line_id": "L001",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Critical",
+    "affected_station_id": "S0180",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00180",
+    "line_id": "L012",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0156",
+    "disruption_date": "2026-02-15",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00181",
+    "line_id": "L008",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0094",
+    "disruption_date": "2026-02-27",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00182",
+    "line_id": "L012",
+    "disruption_type": "Signal Failure",
+    "severity": "Critical",
+    "affected_station_id": "S0127",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00183",
+    "line_id": "L012",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0174",
+    "disruption_date": "2026-02-08",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00184",
+    "line_id": "L004",
+    "disruption_type": "Power Issue",
+    "severity": "High",
+    "affected_station_id": "S0124",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00185",
+    "line_id": "L007",
+    "disruption_type": "Signal Failure",
+    "severity": "Critical",
+    "affected_station_id": "S0056",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00186",
+    "line_id": "L002",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0015",
+    "disruption_date": "2026-02-12",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00187",
+    "line_id": "L015",
+    "disruption_type": "Power Issue",
+    "severity": "High",
+    "affected_station_id": "S0091",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00188",
+    "line_id": "L012",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0103",
+    "disruption_date": "2026-02-12",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00189",
+    "line_id": "L004",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0051",
+    "disruption_date": "2026-02-03",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00190",
+    "line_id": "L005",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0125",
+    "disruption_date": "2026-02-01",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00191",
+    "line_id": "L009",
+    "disruption_type": "Planned Works",
+    "severity": "Critical",
+    "affected_station_id": "S0102",
+    "disruption_date": "2026-02-12",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00192",
+    "line_id": "L012",
+    "disruption_type": "Staff Shortage",
+    "severity": "Medium",
+    "affected_station_id": "S0138",
+    "disruption_date": "2026-02-26",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00193",
+    "line_id": "L004",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0042",
+    "disruption_date": "2026-02-05",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00194",
+    "line_id": "L014",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0182",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00195",
+    "line_id": "L007",
+    "disruption_type": "Power Issue",
+    "severity": "Low",
+    "affected_station_id": "S0035",
+    "disruption_date": "2026-02-13",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00196",
+    "line_id": "L011",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0171",
+    "disruption_date": "2026-02-07",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00197",
+    "line_id": "L009",
+    "disruption_type": "Signal Failure",
+    "severity": "Critical",
+    "affected_station_id": "S0126",
+    "disruption_date": "2026-02-18",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00198",
+    "line_id": "L005",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0129",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00199",
+    "line_id": "L013",
+    "disruption_type": "Planned Works",
+    "severity": "Low",
+    "affected_station_id": "S0028",
+    "disruption_date": "2026-02-26",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00200",
+    "line_id": "L005",
+    "disruption_type": "Planned Works",
+    "severity": "High",
+    "affected_station_id": "S0129",
+    "disruption_date": "2026-02-01",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00201",
+    "line_id": "L008",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0110",
+    "disruption_date": "2026-02-20",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00202",
+    "line_id": "L001",
+    "disruption_type": "Staff Shortage",
+    "severity": "Critical",
+    "affected_station_id": "S0075",
+    "disruption_date": "2026-02-10",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00203",
+    "line_id": "L003",
+    "disruption_type": "Staff Shortage",
+    "severity": "Medium",
+    "affected_station_id": "S0159",
+    "disruption_date": "2026-02-05",
+    "estimated_delay_minutes": "45"
+  },
+  {
+    "disruption_id": "D00204",
+    "line_id": "L006",
+    "disruption_type": "Planned Works",
+    "severity": "High",
+    "affected_station_id": "S0197",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "60"
+  },
+  {
+    "disruption_id": "D00205",
+    "line_id": "L009",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Medium",
+    "affected_station_id": "S0171",
+    "disruption_date": "2026-02-27",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00206",
+    "line_id": "L007",
+    "disruption_type": "Staff Shortage",
+    "severity": "Low",
+    "affected_station_id": "S0180",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00207",
+    "line_id": "L006",
+    "disruption_type": "Planned Works",
+    "severity": "Medium",
+    "affected_station_id": "S0059",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00208",
+    "line_id": "L013",
+    "disruption_type": "Signal Failure",
+    "severity": "High",
+    "affected_station_id": "S0050",
+    "disruption_date": "2026-02-05",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00209",
+    "line_id": "L001",
+    "disruption_type": "Congestion",
+    "severity": "Medium",
+    "affected_station_id": "S0024",
+    "disruption_date": "2026-02-28",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00210",
+    "line_id": "L013",
+    "disruption_type": "Staff Shortage",
+    "severity": "High",
+    "affected_station_id": "S0180",
+    "disruption_date": "2026-02-21",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00211",
+    "line_id": "L008",
+    "disruption_type": "Power Issue",
+    "severity": "Critical",
+    "affected_station_id": "S0123",
+    "disruption_date": "2026-02-02",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00212",
+    "line_id": "L014",
+    "disruption_type": "Vehicle Fault",
+    "severity": "Low",
+    "affected_station_id": "S0078",
+    "disruption_date": "2026-02-04",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00213",
+    "line_id": "L012",
+    "disruption_type": "Power Issue",
+    "severity": "High",
+    "affected_station_id": "S0183",
+    "disruption_date": "2026-02-14",
+    "estimated_delay_minutes": "10"
+  },
+  {
+    "disruption_id": "D00214",
+    "line_id": "L011",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0011",
+    "disruption_date": "2026-02-01",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00215",
+    "line_id": "L011",
+    "disruption_type": "Planned Works",
+    "severity": "High",
+    "affected_station_id": "S0121",
+    "disruption_date": "2026-02-09",
+    "estimated_delay_minutes": "30"
+  },
+  {
+    "disruption_id": "D00216",
+    "line_id": "L004",
+    "disruption_type": "Staff Shortage",
+    "severity": "Medium",
+    "affected_station_id": "S0065",
+    "disruption_date": "2026-02-16",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00217",
+    "line_id": "L011",
+    "disruption_type": "Power Issue",
+    "severity": "Low",
+    "affected_station_id": "S0025",
+    "disruption_date": "2026-02-22",
+    "estimated_delay_minutes": "5"
+  },
+  {
+    "disruption_id": "D00218",
+    "line_id": "L005",
+    "disruption_type": "Power Issue",
+    "severity": "High",
+    "affected_station_id": "S0190",
+    "disruption_date": "2026-02-26",
+    "estimated_delay_minutes": "15"
+  },
+  {
+    "disruption_id": "D00219",
+    "line_id": "L012",
+    "disruption_type": "Planned Works",
+    "severity": "High",
+    "affected_station_id": "S0054",
+    "disruption_date": "2026-02-19",
+    "estimated_delay_minutes": "20"
+  },
+  {
+    "disruption_id": "D00220",
+    "line_id": "L003",
+    "disruption_type": "Signal Failure",
+    "severity": "Medium",
+    "affected_station_id": "S0162",
+    "disruption_date": "2026-02-24",
+    "estimated_delay_minutes": "30"
+  }
+]

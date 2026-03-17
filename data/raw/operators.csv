@@ -1,0 +1,221 @@
+operator_id,operator_name,service_type,contract_region,status_flag,report_date
+O001,Transport for London,Public,West,Active,2026-03-03
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-05
+O003,ARRIVA RAIL LONDON,Concession,North,Active,2026-03-09
+O004,Abellio Bus London,Private,North,Active,2026-03-11
+O005,GO-AHEAD LONDON,Private,South,Active,2026-03-05
+O006,Metroline,Private,South,Active,2026-03-05
+O007,Stagecoach London,Private,East,Active,2026-03-08
+O008, London Overground Operations ,Concession,Multi-region,Active,2026-03-08
+O001,Transport for London,Public,West,Active,2026-03-11
+O002,Docklands Light Railway Ltd,Public-Private,South,Review,2026-03-01
+O003,Arriva Rail London,Concession,North,Active,2026-03-04
+O004,Abellio Bus London,Private,West,Review,2026-03-03
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-02
+O006,Metroline,Private,Multi-region,Active,2026-03-06
+O007,Stagecoach London,Private,Central,Review,2026-03-05
+O008,London Overground Operations,Concession,North,Active,2026-03-08
+O001,Transport for London,Public,Central,Active,2026-03-10
+O002,Docklands Light Railway Ltd,Public-Private,East,Review,2026-03-07
+O003,Arriva Rail London,Concession,East,Active,2026-03-01
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-01
+O005,Go-Ahead London,Private,West,Active,2026-03-01
+O006,Metroline,Private,Multi-region,Active,2026-03-04
+O007,Stagecoach London,Private,South,Active,2026-03-03
+O008,london overground operations,Concession,West,Active,2026-03-03
+O001,TRANSPORT FOR LONDON,Public,Central,Active,2026-03-05
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-07
+O003,Arriva Rail London,Concession,North,Active,2026-03-08
+O004,Abellio Bus London,Private,North,Active,2026-03-07
+O005, Go-Ahead London ,Private,North,Active,2026-03-04
+O006,Metroline,Private,West,Active,2026-03-02
+O007,Stagecoach London,Private,Multi-region,Active,2026-03-07
+O008,London Overground Operations,Concession,South,Active,2026-03-10
+O001,Transport for London,Public,Multi-region,Active,2026-03-11
+O002,Docklands Light Railway Ltd,Public-Private,Central,Active,2026-03-07
+O003,Arriva Rail London,Concession,Central,Active,2026-03-08
+O004,Abellio Bus London,Private,North,Active,2026-03-05
+O005,Go-Ahead London,Private,Central,Active,2026-03-10
+O006,Metroline,Private,North,Review,2026-03-02
+O007,Stagecoach London,Private,West,Active,2026-03-05
+O008,london overground operations,Concession,Central,Review,2026-03-04
+O001,Transport for London,Public,South,Active,2026-03-06
+O002,Docklands Light Railway Ltd,Public-Private,South,Active,2026-03-01
+O003,Arriva Rail London,Concession,North,Review,2026-03-06
+O004,Abellio Bus London,Private,Central,Active,2026-03-02
+O005,,Private,Multi-region,Review,2026-03-03
+O006,Metroline,Private,West,Active,2026-03-02
+O007,Stagecoach London,Private,Multi-region,Active,2026-03-08
+O008,London Overground Operations,Concession,South,Active,2026-03-08
+O001, Transport for London ,Public,North,Active,2026-03-05
+O002,Docklands Light Railway Ltd,Public-Private,Multi-region,Active,2026-03-07
+O003,Arriva Rail London,Concession,Central,Active,2026-03-01
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-06
+O005,Go-Ahead London,Private,East,Active,2026-03-02
+O006,Metroline,Private,South,Active,2026-03-02
+O007,Stagecoach London,Private,East,Active,2026-03-07
+O008,London Overground Operations,Concession,East,Review,2026-03-11
+O001,Transport for London,Public,North,Active,2026-03-03
+O002,Docklands Light Railway Ltd,Public-Private,Central,Active,2026-03-02
+O003,Arriva Rail London,Concession,West,Review,2026-03-10
+O004,Abellio Bus London,Private,North,Review,2026-03-06
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-08
+O006,Metroline,Private,Central,Review,2026-03-08
+O007, Stagecoach London ,Private,South,Active,2026-03-01
+O008,London Overground Operations,Concession,Multi-region,Active,2026-03-11
+O001,Transport for London,Public,West,Active,2026-03-07
+O002,Docklands Light Railway Ltd,Public-Private,North,Review,2026-03-06
+O003,Arriva Rail London,Concession,Multi-region,Review,2026-03-03
+O004,Abellio Bus London,Private,West,Active,2026-03-01
+O005,Go-Ahead London,Private,North,Review,2026-03-08
+O006,Metroline,Private,Central,Review,2026-03-06
+O007,Stagecoach London,Private,South,Active,2026-03-09
+O008,London Overground Operations,Concession,Multi-region,Review,2026-03-07
+O001,Transport for London,Public,Central,Review,2026-03-08
+O002,Docklands Light Railway Ltd,Public-Private,East,Active,2026-03-08
+O003,Arriva Rail London,Concession,Central,Review,2026-03-11
+O004, Abellio Bus London ,Private,East,Review,2026-03-01
+O005,Go-Ahead London,Private,Central,Active,2026-03-10
+O006,Metroline,Private,Multi-region,Active,2026-03-09
+O007,Stagecoach London,Private,Multi-region,Review,2026-03-06
+O008,London Overground Operations,Concession,Central,Active,2026-03-08
+O001,Transport for London,Public,West,Review,2026-03-11
+O002,Docklands Light Railway Ltd,Public-Private,East,Active,2026-03-02
+O003,Arriva Rail London,Concession,North,Active,2026-03-06
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-09
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-01
+O006,Metroline,Private,East,Active,2026-03-07
+O007,stagecoach london,Private,West,Active,2026-03-04
+O008,london overground operations,Concession,East,Active,2026-03-08
+O001,Transport for London,Public,North,Active,2026-03-02
+O002,Docklands Light Railway Ltd,Public-Private,Central,Active,2026-03-08
+O999,Arriva Rail London,Concession,West,Active,2026-03-08
+O004, Abellio Bus London ,Private,Multi-region,Active,2026-03-09
+O005,Go-Ahead London,Private,West,Review,2026-03-09
+O006,Metroline,Private,North,Active,2026-03-03
+O007,stagecoach london,Private,Multi-region,Active,2026-03-09
+O008,London Overground Operations,Concession,East,Active,2026-03-05
+O001,Transport for London,Public,South,Active,2026-03-08
+O002,Docklands Light Railway Ltd,Public-Private,North,Review,2026-03-10
+O003,Arriva Rail London,Concession,Multi-region,Active,2026-03-09
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-04
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-11
+O006,Metroline,Private,Multi-region,Active,2026-03-11
+O007,Stagecoach London,Private,North,Active,2026-03-02
+O008,London Overground Operations,Concession,West,Review,2026-03-10
+O001,Transport for London,Public,Multi-region,Review,2026-03-11
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-07
+O003,Arriva Rail London,Concession,West,Active,2026-03-01
+O004,Abellio Bus London,Private,Central,Active,2026-03-04
+O005,Go-Ahead London,Private,North,Active,2026-03-11
+O006,Metroline,Private,Central,Active,2026-03-04
+O007,Stagecoach London,Private,Central,Active,2026-03-08
+O008,london overground operations,Concession,Multi-region,Active,2026-03-11
+O001,Transport for London,Public,North,Active,2026-03-11
+O002, Docklands Light Railway Ltd ,Public-Private,East,Review,2026-03-07
+O003,Arriva Rail London,Concession,Multi-region,Active,2026-03-09
+O004, Abellio Bus London ,Private,Multi-region,Active,2026-03-04
+O005,Go-Ahead London,Private,East,Active,2026-03-11
+O006,Metroline,Private,Multi-region,Active,2026-03-10
+O007,Stagecoach London,Private,West,Active,2026-03-04
+O008,London Overground Operations,Concession,North,Active,2026-03-03
+O001,Transport for London,Public,Multi-region,Active,2026-03-07
+O002, Docklands Light Railway Ltd ,Public-Private,South,Active,2026-03-03
+O003,Arriva Rail London,Concession,South,Active,2026-03-06
+O004,Abellio Bus London,Private,North,Active,2026-03-03
+O005,Go-Ahead London,Private,West,Active,2026-03-11
+O006,Metroline,Private,Multi-region,Active,2026-03-08
+O007,Stagecoach London,Private,West,Active,2026-03-02
+O008,London Overground Operations,Concession,South,Active,2026-03-03
+O001,Transport for London,Public,West,Active,2026-03-07
+O002,Docklands Light Railway Ltd,Public-Private,East,Active,2026-03-06
+O003,Arriva Rail London,Concession,North,Active,2026-03-06
+O004,Abellio Bus London,Private,North,Review,2026-03-09
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-02
+O006,Metroline,Private,East,Active,2026-03-11
+O007,Stagecoach London,Private,West,Active,2026-03-01
+O008,London Overground Operations,Concession,South,Review,2026-03-02
+O001,Transport for London,Public,West,Active,2026-03-01
+O002,Docklands Light Railway Ltd,Public-Private,South,Review,2026-03-08
+O003, Arriva Rail London ,Concession,Multi-region,Active,2026-03-06
+O004,Abellio Bus London,Private,Central,Active,2026-03-09
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-04
+O006,Metroline,Private,North,Review,2026-03-02
+O007,Stagecoach London,Private,Multi-region,Review,2026-03-11
+O008,London Overground Operations,Concession,Central,Active,2026-03-01
+O001,Transport for London,Public,South,Active,2026-03-02
+O002,DOCKLANDS LIGHT RAILWAY LTD,Public-Private,North,Active,2026-03-09
+O003,ARRIVA RAIL LONDON,Concession,North,Active,2026-03-07
+O004,Abellio Bus London,Private,Multi-region,Review,2026-03-07
+O005,Go-Ahead London,Private,East,Active,2026-03-09
+O006, Metroline ,Private,Multi-region,Active,2026-03-10
+O007, Stagecoach London ,Private,Central,Active,2026-03-09
+O008,london overground operations,Concession,Multi-region,Active,2026-03-10
+O001,TRANSPORT FOR LONDON,Public,East,Review,2026-03-07
+O002,Docklands Light Railway Ltd,Public-Private,Central,Review,2026-03-03
+O003,Arriva Rail London,Concession,North,Review,2026-03-09
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-05
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-01
+O006,Metroline,Private,West,Active,2026-03-02
+O007, Stagecoach London ,Private,West,Review,2026-03-09
+O008,London Overground Operations,Concession,Central,Active,2026-03-04
+O001,Transport for London,Public,Multi-region,Active,2026-03-04
+O002,Docklands Light Railway Ltd,Public-Private,Multi-region,Active,2026-03-03
+O003,Arriva Rail London,Concession,West,Active,2026-03-04
+O004,abellio bus london,Private,Multi-region,Active,2026-03-09
+O005,Go-Ahead London,Private,West,Active,2026-03-05
+O006,Metroline,Private,South,Active,2026-03-04
+O007,Stagecoach London,Private,East,Active,2026-03-06
+O008,london overground operations,Concession,Multi-region,Active,2026-03-02
+O001,Transport for London,Public,Central,Active,2026-03-06
+O002,Docklands Light Railway Ltd,Public-Private,South,Active,2026-03-10
+O003,Arriva Rail London,Concession,West,Active,2026-03-06
+O004,Abellio Bus London,Private,North,Active,2026-03-06
+O005,Go-Ahead London,Private,North,Review,2026-03-05
+O006,Metroline,Private,North,Active,2026-03-08
+O007,Stagecoach London,Private,South,Active,2026-03-08
+O008,London Overground Operations,Concession,North,Active,2026-03-05
+O001,Transport for London,Public,North,Active,2026-03-05
+O002,Docklands Light Railway Ltd,Public-Private,Multi-region,Active,2026-03-02
+O003,Arriva Rail London,Concession,West,Active,2026-03-10
+O004,Abellio Bus London,Private,West,Active,2026-03-01
+O005,Go-Ahead London,Private,West,Review,2026-03-11
+O006,Metroline,Private,South,Review,2026-03-04
+O007,Stagecoach London,Private,West,Active,2026-03-03
+O008,London Overground Operations,Concession,West,Active,2026-03-07
+O001,Transport for London,Public,Central,Active,2026-03-10
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-08
+O003,Arriva Rail London,Concession,West,Active,2026-03-08
+O004,Abellio Bus London,Private,Central,Active,2026-03-08
+O005,Go-Ahead London,Private,South,Active,2026-03-04
+O006, Metroline ,Private,North,Active,2026-03-07
+O007,Stagecoach London,Private,East,Active,2026-03-01
+O008,London Overground Operations,Concession,South,Active,2026-03-09
+O001,Transport for London,Public,South,Active,2026-03-10
+O002,Docklands Light Railway Ltd,Public-Private,North,Review,2026-03-11
+O003,Arriva Rail London,Concession,West,Active,2026-03-09
+O004,Abellio Bus London,Private,North,Review,2026-03-06
+O005,Go-Ahead London,Private,South,Review,2026-03-08
+O006,Metroline,Private,Central,Active,2026-03-08
+O007,Stagecoach London,Private,Central,Active,2026-03-04
+O008,London Overground Operations,Concession,North,Active,2026-03-10
+O001,Transport for London,Public,Central,Active,2026-03-07
+O002,Docklands Light Railway Ltd,Public-Private,Multi-region,Active,2026-03-08
+O003,Arriva Rail London,Concession,East,Active,2026-03-10
+O004,Abellio Bus London,Private,East,Active,2026-03-04
+O005, Go-Ahead London ,Private,West,Active,2026-03-03
+O006,Metroline,Private,Central,Active,2026-03-01
+O007,Stagecoach London,Private,North,Review,2026-03-10
+O008,London Overground Operations,Concession,Multi-region,Active,2026-03-11
+O001,Transport for London,Public,Central,Active,2026-03-08
+O002,Docklands Light Railway Ltd,Public-Private,East,Review,2026-03-03
+O003,Arriva Rail London,Concession,East,Active,2026-03-10
+O004,Abellio Bus London,Private,North,Active,2026-03-03
+O005,Go-Ahead London,Private,South,Review,2026-03-10
+O006,Metroline,Private,North,Review,2026-03-07
+O007,Stagecoach London,Private,Central,Active,2026-03-09
+O008,London Overground Operations,Concession,West,Review,2026-03-03
+O001,Transport for London,Public,North,Review,2026-03-10
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-02
+O003,Arriva Rail London,Concession,North,Active,2026-03-11
+O004,Abellio Bus London,Private,West,Review,2026-03-06

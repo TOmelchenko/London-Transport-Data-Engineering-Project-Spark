@@ -1,0 +1,221 @@
+borough_id,borough_name,region_group,population_band,avg_daily_ridership_band,report_month
+B001,Camden,North,Medium,Medium,2025-10
+B002,Westminster,Central,Medium,Medium,2025-12
+B003,Southwark,South,Very High,Low,2026-02
+B004,Islington,North,Low,Medium,2026-02
+B005,Hackney,East,High,Low,2026-02
+B006,TOWER HAMLETS,East,Very High,High,2025-12
+B007, Lambeth ,South,High,Low,2025-11
+B008,Wandsworth,South,Very High,Low,2025-11
+B009,Hammersmith and Fulham,West,Medium,Low,2025-12
+B010,Ealing,West,Low,High,2026-02
+B011,Greenwich,South East,Low,High,2025-12
+B012,Lewisham,South East,Medium,High,2026-01
+B013,Barnet,North,Medium,High,2026-02
+B014,Brent,North West,Medium,High,2026-01
+B015, Croydon ,South,High,High,2025-11
+B016,Newham,East,High,High,2026-01
+B017,Bromley,South East,Medium,Medium,2026-01
+,Haringey,North,Medium,Medium,2026-02
+B019,Kensington and Chelsea,Central,Very High,Medium,2026-01
+B020,Richmond upon Thames,West,Very High,Low,2025-11
+B001,Camden,North,Medium,Medium,2025-10
+B002,Westminster,Central,High,High,2025-10
+B003,Southwark,South,Low,Medium,2025-10
+B004,Islington,North,High,Medium,2026-02
+B005,Hackney,East,Very High,Low,2025-11
+B006,Tower Hamlets,East,High,Low,2026-01
+B007, Lambeth ,South,High,Low,2026-01
+B008,Wandsworth,South,High,Low,2025-10
+B009,Hammersmith and Fulham,West,Low,High,2025-12
+B010,Ealing,West,Medium,Low,2025-12
+B011,Greenwich,South East,Very High,High,2025-11
+B012,Lewisham,South East,Very High,Medium,2026-02
+B013, Barnet ,North,Low,Low,2025-12
+B014,Brent,North West,Medium,High,2026-02
+B015,Croydon,South,Low,Medium,2025-11
+B016,Newham,East,Low,Low,2026-01
+B017,Bromley,South East,Very High,Low,2025-10
+B018,Haringey,North,Very High,High,2026-02
+B019, Kensington and Chelsea ,Central,Medium,High,2025-11
+B020,Richmond upon Thames,West,Low,High,2025-12
+B001,Camden,North,Very High,Low,2025-10
+B002,Westminster,Central,High,Low,2026-02
+B003,Southwark,South,Low,Medium,2026-01
+B004, Islington ,North,Very High,Medium,2025-12
+B005,Hackney,East,High,Low,2025-12
+B006,Tower Hamlets,East,Low,High,2025-12
+B007,Lambeth,South,High,High,2025-12
+B008,Wandsworth,South,Medium,High,2026-01
+B009,Hammersmith and Fulham,West,Very High,High,2025-11
+B010,Ealing,West,Low,High,2026-01
+B011, Greenwich ,South East,Medium,Low,2025-11
+B012,Lewisham,South East,High,Medium,2026-02
+B013,Barnet,North,Very High,Medium,2025-10
+B014,Brent,North West,Medium,Medium,2025-12
+B015,Croydon,South,Low,High,2025-12
+B016,Newham,East,High,Medium,2026-01
+B017,Bromley,South East,Very High,Medium,2025-11
+B018,Haringey,North,Very High,Medium,2026-02
+B019,Kensington and Chelsea,Central,Low,High,2026-01
+B020,RICHMOND UPON THAMES,West,Medium,High,2025-12
+B001,Camden,North,Low,Medium,2025-12
+B002,Westminster,Central,Very High,Low,2026-01
+B003,Southwark,South,Low,High,2025-12
+B004,Islington,North,Very High,Medium,2025-10
+B005,HACKNEY,East,Very High,Medium,2026-02
+B006,Tower Hamlets,East,Medium,Low,2025-11
+B007,Lambeth,South,Very High,Low,2025-11
+B008,WANDSWORTH,South,High,Medium,2026-01
+B009,Hammersmith and Fulham,West,Low,High,2025-11
+B010,Ealing,West,High,Medium,2026-01
+B011,Greenwich,South East,Medium,High,2025-12
+B012,Lewisham,South East,High,Low,2025-10
+B013, Barnet ,North,Medium,Medium,2026-02
+B014,Brent,North West,Low,Medium,2025-12
+B015,Croydon,South,Medium,High,2025-12
+B016,Newham,East,Very High,Low,2025-10
+B017,Bromley,South East,Low,Medium,2025-11
+B018,Haringey,North,Very High,Low,2025-12
+B019,Kensington and Chelsea,Central,Low,High,2026-02
+B020,Richmond upon Thames,West,High,Low,2025-11
+B001,Camden,North,Medium,Low,2025-11
+B002,Westminster,Central,Medium,Medium,2025-10
+B003,Southwark,South,High,Medium,2026-02
+B004,islington,North,Low,Low,2025-12
+B005,Hackney,East,Very High,High,2026-01
+B006,Tower Hamlets,East,Low,Low,2025-12
+B007,Lambeth,South,Very High,Medium,2026-02
+B008,Wandsworth,South,Medium,Low,2026-01
+B009,  ,West,Low,Low,2026-02
+B010,Ealing,West,Medium,Low,2025-12
+B011,Greenwich,South East,Medium,Medium,2026-02
+B012,Lewisham,South East,Low,Medium,2025-11
+B013,Barnet,North,High,Low,2025-12
+B014,Brent,North West,Low,High,2025-11
+B015,Croydon,South,Medium,Low,2026-02
+B016,Newham,East,High,High,2025-10
+B017,Bromley,South East,Low,Low,2025-10
+B018,Haringey,North,High,High,2025-11
+B019,Kensington and Chelsea,Central,Very High,High,2025-10
+B020,Richmond upon Thames,West,High,High,2025-12
+B001,Camden,North,Very High,Medium,2026-01
+B002,WESTMINSTER,Central,Low,Low,2026-01
+B003,Southwark,South,Very High,Low,2025-12
+B004,Islington,North,High,High,2025-12
+B005,Hackney,East,High,Medium,2025-11
+B006,Tower Hamlets,East,Low,Medium,2025-11
+B007,Lambeth,South,High,Medium,2025-11
+B008,Wandsworth,South,Low,Medium,2026-01
+B009,Hammersmith and Fulham,West,Very High,Low,2025-11
+B010,Ealing,West,High,Low,2025-11
+B011,Greenwich,South East,Very High,Medium,2025-12
+B012,Lewisham,South East,Low,Medium,2026-02
+B013,Barnet,North,Medium,Low,2026-02
+B014,Brent,North West,Low,Medium,2026-01
+B015,Croydon,South,Very High,Medium,2026-02
+B016, Newham ,East,Low,Medium,2025-11
+B017,Bromley,South East,High,Medium,2025-12
+B018, Haringey ,North,Low,High,2026-02
+B019,Kensington and Chelsea,Central,High,Low,2026-01
+B020,Richmond upon Thames,West,High,High,2026-02
+B001,camden,North,Low,Medium,2025-12
+B002,Westminster,north,High,High,2025-12
+B003,Southwark,South,Medium,High,2026-02
+B004,Islington,North,Low,Low,2025-10
+B005,Hackney,East,High,Medium,2026-02
+B006,Tower Hamlets,East,Medium,Medium,2026-02
+B007,Lambeth,South,Very High,High,2025-12
+B008,Wandsworth,South,Very High,High,2026-02
+B009,Hammersmith and Fulham,West,Low,Medium,2025-12
+B010,Ealing,West,Very High,High,2025-12
+B011,Greenwich,South East,Low,High,2026-01
+B012,Lewisham,South East,Medium,High,2025-10
+B013,Barnet,North,Medium,High,2026-02
+B014,Brent,North West,Very High,Low,2025-11
+B015, Croydon ,South,Low,Low,2025-10
+B016,Newham,East,Very High,Low,2026-01
+B017,Bromley,South East,Very High,High,2026-02
+B018,Haringey,North,Low,High,2025-11
+B019,Kensington and Chelsea,Central,High,High,2026-01
+B020,Richmond upon Thames,West,High,Low,2026-01
+B001,Camden,North,High,High,2025-12
+B002,Westminster,Central,High,High,2026-01
+B003,Southwark,South,Medium,Medium,2026-02
+B004,Islington,North,High,Medium,2025-11
+B005,Hackney,East,Very High,Medium,2026-01
+B006,Tower Hamlets,East,High,Medium,2025-10
+B007,Lambeth,South,Very High,Medium,2025-12
+B008,Wandsworth,South,Medium,Medium,2025-10
+B009,Hammersmith and Fulham,West,Low,Medium,2026-01
+B010,Ealing,West,Very High,Low,2025-11
+B011,Greenwich,South East,High,High,2025-12
+B012,Lewisham,South East,Medium,Low,2025-10
+B013,Barnet,North,Medium,High,2025-11
+B014, Brent ,North West,Very High,Medium,2026-01
+B015,croydon,South,Medium,Low,2026-02
+B016,Newham,East,Medium,Medium,2026-01
+B017,Bromley,South East,Medium,Medium,2025-12
+B018,Haringey,North,Low,Low,2026-02
+B019,Kensington and Chelsea,Central,Low,Low,2026-01
+B020,Richmond upon Thames,West,Medium,Low,2026-01
+B001,Camden,North,Medium,High,2025-12
+B002,Westminster,Central,Low,Medium,2026-02
+B003,Southwark,South,High,Medium,2026-01
+B004,Islington,North,Very High,Low,2026-02
+B005,Hackney,East,Medium,Low,2025-12
+B006,Tower Hamlets,East,Very High,High,2025-12
+B007,Lambeth,South,Low,High,2025-12
+B008,Wandsworth,South,Medium,Low,2026-02
+B009,Hammersmith and Fulham,West,Very High,Medium,2026-02
+B010,Ealing,West,Very High,High,2025-10
+B011,Greenwich,South East,Medium,Medium,2025-12
+B012,Lewisham,South East,Low,Medium,2026-01
+B013,Barnet,North,High,Medium,2025-12
+B014,Brent,North West,Low,Medium,2025-12
+B015,Croydon,South,Low,High,2025-10
+B016,Newham,East,Medium,Medium,2026-02
+B017,Bromley,South East,High,High,2025-10
+B018,Haringey,North,High,Medium,2026-02
+B019,Kensington and Chelsea,Central,Medium,Medium,2025-11
+B020,Richmond upon Thames,West,High,Medium,2026-02
+B001,Camden,North,Medium,Low,2026-02
+B002,Westminster,Central,Low,High,2026-01
+B003,Southwark,South,High,Low,2026-02
+B004,islington,North,Medium,High,2026-02
+B005,Hackney,East,High,High,2026-01
+B006,tower hamlets,East,Medium,High,2026-02
+B007,Lambeth,South,Very High,Low,2026-01
+B008,Wandsworth,South,Very High,Medium,2026-02
+B009, Hammersmith and Fulham ,West,Very High,High,2025-12
+B010,Ealing,West,Very High,Medium,2025-10
+B011,Greenwich,South East,Low,Low,2026-01
+B012,Lewisham,South East,Low,High,2025-10
+B013,Barnet,North,Low,Medium,2025-10
+B014,Brent,North West,Medium,Low,2026-01
+B015,Croydon,South,Very High,Medium,2026-01
+B016,Newham,East,Medium,High,2025-12
+B017,bromley,South East,Very High,High,2025-11
+B018,Haringey,North,Medium,Low,2025-10
+B019,Kensington and Chelsea,Central,Very High,High,2026-02
+B020,Richmond upon Thames,West,Very High,Low,2025-11
+B001,Camden,North,Medium,Medium,2025-11
+B002,Westminster,Central,Low,Low,2026-01
+B003,Southwark,South,Low,Low,2025-11
+B004,ISLINGTON,North,Low,Medium,2026-02
+B005,Hackney,East,Low,Low,2025-10
+B006,Tower Hamlets,East,Medium,High,2025-11
+B007,Lambeth,South,Low,Low,2026-02
+B008,Wandsworth,South,Medium,High,2026-02
+B009,Hammersmith and Fulham,West,High,Low,2025-12
+B010,Ealing,West,Medium,Medium,2025-12
+B011,Greenwich,South East,Medium,High,2026-01
+B012,Lewisham,South East,Low,Medium,2026-01
+B013,Barnet,North,High,High,2026-01
+B014,Brent,North West,High,Medium,2025-11
+B015,Croydon,South,Very High,Low,2025-11
+B016,Newham,East,Medium,Medium,2025-10
+B017,Bromley,South East,Very High,High,2026-02
+B018,Haringey,North,Medium,Medium,2025-11
+B019,Kensington and Chelsea,Central,Low,Medium,2025-12
+B020,RICHMOND UPON THAMES,West,Medium,Low,2025-12

@@ -1,0 +1,221 @@
+vehicle_type_id,mode_name,capacity_range,accessibility_flag,energy_type,report_date
+VT01,Tube Train,700-1000,No,Electric,2026-03-08
+VT02,Double Decker Bus,70-95,No,Diesel,2026-03-10
+VT03,Single Decker Bus,45-65,Yes,Diesel,2026-03-03
+VT04,DLR Train,250-400,Yes,Electric,2026-03-05
+VT05,Overground Train,500-700,No,Diesel,2026-03-04
+VT06, Elizabeth Line Train ,900-1500,Yes,Hybrid,2026-03-09
+VT07,tram,120-250,Yes,Diesel,2026-03-11
+VT08,River Boat,150-220,Partial,Diesel,2026-03-06
+VT01,tube train,700-1000,No,Hybrid,2026-03-10
+VT02,Double Decker Bus,70-95,No,Hybrid,2026-03-06
+VT03,Single Decker Bus,N/A,No,Electric,2026-03-07
+VT04,DLR Train,250-400,No,Electric,2026-03-06
+VT05,Overground Train,500-700,No,Diesel,2026-03-05
+VT06,Elizabeth Line Train,900-1500,No,Hybrid,2026-03-03
+VT07,Tram,120-250,Yes,Hybrid,2026-03-04
+VT08,River Boat,150-220,Yes,Electric,2026-03-04
+VT01,Tube Train,700-1000,Partial,Hybrid,2026-03-10
+VT02,Double Decker Bus,70-95,Yes,Electric,2026-03-07
+VT03,Single Decker Bus,45-65,Yes,Electric,2026-03-03
+VT04,DLR Train,250-400,No,Electric,2026-03-02
+VT05,Overground Train,500-700,Partial,Electric,2026-03-10
+VT06, Elizabeth Line Train ,900-1500,No,Diesel,2026-03-10
+VT07,Tram,120-250,Partial,Hybrid,2026-03-10
+VT08, River Boat ,150-220,Yes,Hybrid,2026-03-08
+VT01,Tube Train,700-1000,Yes,Hybrid,2026-03-09
+VT02,Double Decker Bus,70-95,Yes,Hybrid,2026-03-09
+VT03,Single Decker Bus,45-65,Yes,Hybrid,2026-03-03
+VT04,DLR Train,250-400,Partial,Electric,2026-03-11
+VT05, Overground Train ,500-700,Yes,Electric,2026-03-05
+VT06,Elizabeth Line Train,900-1500,Partial,Hybrid,2026-03-07
+VT07,Tram,120-250,Yes,Hybrid,2026-03-01
+VT08,River Boat,150-220,Yes,Electric,2026-03-09
+VT01,Tube Train,700-1000,Partial,Diesel,2026-03-05
+VT02,Double Decker Bus,70-95,Yes,Diesel,2026-03-07
+VT03,Single Decker Bus,45-65,Partial,Electric,2026-03-07
+VT04,DLR Train,250-400,Yes,Hybrid,2026-03-05
+VT05,Overground Train,500-700,Yes,Hybrid,2026-03-05
+VT06,Elizabeth Line Train,900-1500,Partial,Hybrid,2026-03-08
+VT07,Tram,120-250,No,Electric,2026-03-06
+VT08,River Boat,150-220,No,Hybrid,2026-03-08
+VT01,Tube Train,700-1000,Yes,Diesel,2026-03-02
+VT02,Double Decker Bus,70-95,No,Hybrid,2026-03-04
+VT03,Single Decker Bus,45-65,Yes,Diesel,2026-03-07
+VT04,DLR Train,250-400,Yes,Hybrid,2026-03-05
+VT05,Overground Train,500-700,Yes,Diesel,2026-03-11
+VT06,Elizabeth Line Train,900-1500,Partial,Electric,2026-03-09
+VT07,Tram,120-250,No,Diesel,2026-03-06
+VT08,River Boat,150-220,Partial,Electric,2026-03-11
+VT01,Tube Train,700-1000,Yes,Diesel,2026-03-04
+VT02,Double Decker Bus,70-95,Yes,Diesel,2026-03-04
+VT03,Single Decker Bus,45-65,Yes,Hybrid,2026-03-06
+VT04,DLR Train,250-400,Yes,Electric,2026-03-02
+VT05,Overground Train,500-700,No,Hybrid,2026-03-01
+VT06,Elizabeth Line Train,900-1500,Yes,Diesel,2026-03-06
+VT07,Tram,120-250,No,Hybrid,2026-03-05
+VT08,River Boat,150-220,Partial,Diesel,2026-03-04
+VT01,Tube Train,700-1000,Yes,Electric,2026-03-09
+VT02,Double Decker Bus,70-95,No,Hybrid,2026-03-01
+VT03,Single Decker Bus,45-65,No,Hybrid,2026-03-03
+VT04,DLR Train,250-400,Yes,Hybrid,2026-03-09
+VT05,Overground Train,500-700,Yes,Electric,2026-03-11
+VT06,Elizabeth Line Train,900-1500,Yes,Diesel,2026-03-06
+VT07,Tram,120-250,Partial,Electric,2026-03-09
+VT08,River Boat,150-220,Partial,Diesel,2026-03-10
+VT01,Tube Train,700-1000,Yes,Diesel,2026-03-07
+VT02,Double Decker Bus,70-95,Partial,Diesel,2026-03-07
+VT03,Single Decker Bus,45-65,Yes,Hybrid,2026-03-03
+VT04,DLR Train,250-400,Yes,Electric,2026-03-05
+VT05,Overground Train,500-700,No,Diesel,2026-03-04
+VT06,Elizabeth Line Train,900-1500,Yes,Diesel,2026-03-01
+VT07,Tram,120-250,No,Electric,2026-03-11
+VT08,River Boat,150-220,Partial,Diesel,2026-03-05
+VT01,Tube Train,700-1000,Yes,Diesel,2026-03-02
+VT02,Double Decker Bus,70-95,Yes,Electric,2026-03-05
+VT03,Single Decker Bus,45-65,Yes,Diesel,2026-03-06
+VT04,DLR Train,250-400,Partial,Hybrid,2026-03-09
+VT05,Overground Train,500-700,Partial,Diesel,2026-03-01
+VT06,Elizabeth Line Train,900-1500,Partial,Hybrid,2026-03-10
+VT07,Tram,120-250,Yes,Diesel,2026-03-06
+VT08,River Boat,150-220,No,Hybrid,2026-03-08
+VT01,Tube Train,700-1000,No,Hybrid,2026-03-05
+VT02,Double Decker Bus,70-95,Yes,Electric,2026-03-11
+VT03,Single Decker Bus,45-65,Partial,Diesel,2026-03-11
+VT04,DLR Train,250-400,No,Electric,2026-03-02
+VT05,Overground Train,500-700,Yes,Diesel,2026-03-06
+VT06,Elizabeth Line Train,900-1500,Partial,Hybrid,2026-03-11
+VT07,Tram,120-250,No,Diesel,2026-03-10
+VT08,River Boat,150-220,No,Diesel,2026-03-03
+VT01,Tube Train,700-1000,Yes,Electric,2026-03-04
+VT02,Double Decker Bus,70-95,Yes,Electric,2026-03-03
+VT03,Single Decker Bus,45-65,Yes,Electric,2026-03-08
+VT04,DLR Train,250-400,Yes,Diesel,2026-03-09
+VT05,Overground Train,500-700,Yes,Electric,2026-03-05
+VT06,Elizabeth Line Train,900-1500,Yes,Hybrid,2026-03-07
+VT07,Tram,120-250,Yes,Hybrid,2026-03-05
+VT08,River Boat,150-220,Yes,Electric,2026-03-09
+VT01,Tube Train,700-1000,Yes,Electric,2026-03-11
+VT02,Double Decker Bus,70-95,Partial,Diesel,2026-03-08
+VT03,Single Decker Bus,45-65,Partial,Hybrid,2026-03-08
+VT04,DLR Train,250-400,Yes,Hybrid,2026-03-10
+VT05,Overground Train,500-700,No,Hybrid,2026-03-11
+VT06,Elizabeth Line Train,900-1500,Partial,Diesel,2026-03-08
+VT07,Tram,120-250,Yes,Diesel,2026-03-05
+VT08,River Boat,150-220,Partial,Electric,2026-03-05
+VT01, Tube Train ,700-1000,Yes,Diesel,2026-03-05
+VT02,Double Decker Bus,70-95,Yes,Hybrid,2026-03-08
+VT03,Single Decker Bus,45-65,No,Diesel,2026-03-01
+VT04,DLR Train,250-400,Partial,Hybrid,2026-03-04
+VT05,Overground Train,500-700,Partial,Electric,2026-03-07
+VT06,Elizabeth Line Train,900-1500,No,Diesel,2026-03-04
+VT07,Tram,120-250,No,Diesel,2026-03-04
+VT08,River Boat,150-220,No,Hybrid,2026-03-04
+VT01,Tube Train,700-1000,Partial,Diesel,2026-03-11
+VT02,Double Decker Bus,70-95,Partial,Diesel,2026-03-04
+VT03,Single Decker Bus,45-65,Yes,Electric,2026-03-05
+VT04,dlr train,250-400,No,Hybrid,2026-03-08
+VT05,Overground Train,500-700,No,Electric,2026-03-06
+VT06, Elizabeth Line Train ,900-1500,Yes,Hybrid,2026-03-01
+VT07,Tram,120-250,Yes,Diesel,2026-03-05
+VT08,river boat,150-220,No,Hybrid,2026-03-01
+VT01,Tube Train,700-1000,Yes,Electric,2026-03-08
+VT02,Double Decker Bus,70-95,No,Diesel,2026-03-08
+VT03,Single Decker Bus,45-65,No,Hybrid,2026-03-01
+VT04,DLR Train,250-400,Yes,Electric,2026-03-05
+VT05,Overground Train,500-700,Yes,Hybrid,2026-03-08
+VT06,Elizabeth Line Train,900-1500,Partial,Diesel,2026-03-01
+VT07,tram,120-250,Yes,Diesel,2026-03-08
+VT08,River Boat,150-220,Yes,Electric,2026-03-08
+VT01,Tube Train,700-1000,Yes,Hybrid,2026-03-11
+VT02,Double Decker Bus,70-95,No,Diesel,2026-03-11
+VT03,Single Decker Bus,45-65,Partial,Electric,2026-03-11
+VT04,DLR Train,250-400,Yes,Diesel,2026-03-08
+VT05,Overground Train,500-700,Yes,Diesel,2026-03-01
+VT06,Elizabeth Line Train,900-1500,Yes,Electric,2026-03-04
+VT07,Tram,120-250,Partial,Electric,2026-03-03
+VT08,River Boat,150-220,Yes,Diesel,2026-03-04
+VT01, Tube Train ,700-1000,Yes,Hybrid,2026-03-08
+VT02,Double Decker Bus,70-95,Yes,Diesel,2026-03-02
+VT03,Single Decker Bus,45-65,No,Electric,2026-03-11
+VT04,DLR Train,250-400,Yes,Electric,2026-03-06
+VT05, tube train ,500-700,Yes,Electric,2026-03-08
+VT06,Elizabeth Line Train,900-1500,Partial,Diesel,2026-03-04
+VT07, Tram ,120-250,No,Diesel,2026-03-03
+VT08,River Boat,150-220,Yes,Diesel,2026-03-08
+VT01,Tube Train,700-1000,No,Electric,2026-03-10
+VT02,Double Decker Bus,70-95,Partial,Diesel,2026-03-08
+VT03,Single Decker Bus,45-65,Yes,Electric,2026-03-09
+VT04,DLR Train,250-400,Partial,Diesel,2026-03-09
+VT05,Overground Train,500-700,Yes,Hybrid,2026-03-09
+VT06,Elizabeth Line Train,900-1500,Yes,Electric,2026-03-10
+VT07,Tram,120-250,Yes,Diesel,2026-03-02
+VT08,River Boat,150-220,No,Electric,2026-03-09
+VT01,Tube Train,700-1000,Yes,Hybrid,2026-03-05
+VT02,Double Decker Bus,70-95,Partial,Electric,2026-03-02
+VT03,Single Decker Bus,45-65,Yes,Electric,2026-03-03
+VT04,DLR Train,250-400,Yes,Electric,2026-03-02
+VT05,Overground Train,500-700,Yes,Electric,2026-03-10
+VT06,Elizabeth Line Train,900-1500,No,Hybrid,2026-03-08
+VT07,Tram,120-250,Partial,Electric,2026-03-06
+VT08,River Boat,150-220,Yes,Electric,2026-03-04
+VT01,Tube Train,700-1000,Yes,Diesel,2026-03-11
+VT02,DOUBLE DECKER BUS,70-95,No,Diesel,2026-03-01
+VT03,Single Decker Bus,45-65,Partial,Hybrid,2026-03-01
+VT04,DLR Train,250-400,Partial,Electric,2026-03-04
+VT05,Overground Train,500-700,Yes,Electric,2026-03-04
+VT06,Elizabeth Line Train,900-1500,Yes,Electric,2026-03-09
+VT07,Tram,120-250,Yes,Hybrid,2026-03-09
+VT08,River Boat,150-220,Yes,Hybrid,2026-03-10
+VT01,Tube Train,700-1000,No,Hybrid,2026-03-11
+VT02,Double Decker Bus,70-95,Yes,Electric,2026-03-03
+VT03,Single Decker Bus,45-65,Partial,Hybrid,2026-03-03
+VT04,DLR Train,250-400,No,Diesel,2026-03-06
+VT05,Overground Train,500-700,Partial,Diesel,2026-03-07
+VT06,Elizabeth Line Train,900-1500,No,Hybrid,2026-03-06
+VT07,Tram,120-250,Yes,Diesel,2026-03-09
+VT08,River Boat,150-220,Partial,Diesel,2026-03-08
+VT01,Tube Train,700-1000,No,Electric,2026-03-01
+VT02,Double Decker Bus,70-95,Yes,Hybrid,2026-03-03
+VT03,Single Decker Bus,45-65,Partial,Electric,2026-03-05
+VT04,DLR Train,250-400,Yes,Diesel,2026-03-01
+VT05,Overground Train,500-700,Partial,Hybrid,2026-03-09
+VT06,Elizabeth Line Train,900-1500,Yes,Electric,2026-03-01
+VT07,Tram,120-250,Yes,Electric,2026-03-05
+VT08,River Boat,150-220,Yes,Electric,2026-03-05
+VT01,Tube Train,700-1000,Yes,Hybrid,2026-03-07
+VT02,Double Decker Bus,70-95,Yes,Hybrid,2026-03-02
+VT03,Single Decker Bus,45-65,No,Electric,2026-03-08
+VT04,DLR Train,250-400,Yes,Hybrid,2026-03-11
+VT05,Overground Train,500-700,No,Electric,2026-03-01
+VT06,Elizabeth Line Train,900-1500,Partial,Diesel,2026-03-07
+VT07,Tram,120-250,Yes,Electric,2026-03-11
+VT08,River Boat,150-220,Yes,Hybrid,2026-03-11
+VT01,Tube Train,700-1000,Partial,Hybrid,2026-03-01
+VT02,Double Decker Bus,70-95,Yes,Diesel,2026-03-09
+VT03,Single Decker Bus,45-65,Yes,Electric,2026-03-11
+VT04,DLR Train,250-400,No,Diesel,2026-03-10
+VT05,Overground Train,500-700,Yes,Electric,2026-03-07
+VT06,Elizabeth Line Train,900-1500,No,Electric,2026-03-03
+VT07,Tram,120-250,No,Hybrid,2026-03-01
+VT08,River Boat,150-220,Partial,Electric,2026-03-07
+VT01,Tube Train,700-1000,Yes,Electric,2026-03-08
+VT02,Double Decker Bus,70-95,No,Diesel,2026-03-11
+VT03,Single Decker Bus,45-65,Yes,Electric,2026-03-02
+VT04,DLR Train,250-400,No,Diesel,2026-03-11
+VT05,Overground Train,500-700,Yes,Electric,2026-03-11
+VT06,Elizabeth Line Train,900-1500,Partial,Diesel,2026-03-04
+VT07,Tram,120-250,Yes,Diesel,2026-03-03
+VT08,River Boat,150-220,No,Hybrid,2026-03-03
+VT01,Tube Train,700-1000,Yes,Electric,2026-03-11
+VT02,Double Decker Bus,70-95,Yes,Electric,2026-03-01
+VT03,Single Decker Bus,45-65,Yes,Diesel,2026-03-01
+VT04,DLR Train,250-400,Yes,Diesel,2026-03-08
+VT05,Overground Train,500-700,Partial,Electric,2026-03-09
+VT06,Elizabeth Line Train,900-1500,Partial,Hybrid,2026-03-08
+VT07,Tram,120-250,Yes,Hybrid,2026-03-11
+VT08, River Boat ,150-220,Yes,Diesel,2026-03-03
+VT01,TUBE TRAIN,700-1000,Yes,Hybrid,2026-03-10
+VT02,Double Decker Bus,70-95,No,Hybrid,2026-03-01
+VT03,SINGLE DECKER BUS,45-65,Partial,Hybrid,2026-03-11
+VT04,DLR Train,250-400,Yes,Electric,2026-03-05

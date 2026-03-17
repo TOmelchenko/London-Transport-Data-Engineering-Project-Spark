@@ -1,0 +1,221 @@
+line_id,line_name,transport_mode,operator_id,vehicle_type_id,service_status,snapshot_date
+L001,Central,Underground,O001,VT01,Normal,2026-03-14
+L002,NORTHERN,Underground,O001,VT01,Reduced,2026-03-08
+L003,Victoria,Underground,O001,VT01,Planned Works,2026-03-15
+L004, Piccadilly ,Underground,O001,VT01,Normal,2026-03-12
+L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-12
+L006,District,Underground,,VT01,Reduced,2026-03-09
+L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-09
+L008,Bakerloo,Underground,O001,VT01,Planned Works,2026-03-09
+L009,DLR,Light Rail,O002,VT04,Minor Delays,2026-03-13
+L010,London Overground,Overground,O008,VT05,Planned Works,2026-03-06
+L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-12
+L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-05
+L013,Route 38,Bus,O005,VT02,Minor Delays,2026-03-10
+L014,Route 73,Bus,O006,VT02,Planned Works,2026-03-05
+L015,Route 149,Bus,O007,VT02,Minor Delays,2026-03-08
+L016,Tramlink,Tram,O001,VT07,Reduced,2026-03-03
+L001,Central,Underground,O001,VT01,Normal,2026-03-09
+L002, Northern ,Underground,O001,VT01,Normal,2026-03-13
+L003, Victoria ,Underground,O001,VT01,Reduced,2026-03-02
+L004,Piccadilly, Underground ,O001,VT01,Minor Delays,2026-03-06
+L005,JUBILEE,Underground,O001,VT01,Minor Delays,2026-03-11
+L006,District, Underground ,O001,VT01,Minor Delays,2026-03-01
+L007, Circle ,Underground,O001,VT01,Planned Works,2026-03-01
+L008,Bakerloo,Underground,O001,VT01,Minor Delays,2026-03-13
+L009,DLR,Light Rail,O002,VT04,Normal,2026-03-09
+L010,London Overground,Overground,O008,VT05,Planned Works,2026-03-14
+L011,Elizabeth line,Rail,O001,VT06,Normal,2026-03-06
+L012,Route 24,Bus,O004,VT02,Reduced,2026-03-12
+L013,Route 38,Bus,O005,VT02,Normal,2026-03-11
+L014,Route 73,Bus,O006,VT02,Normal,2026-03-02
+L015,Route 149,Bus,O007,VT02,Minor Delays,2026-03-01
+L016,Tramlink,Tram,O001,VT07,Normal,2026-03-08
+L001,Central,Underground,O001,VT01,Planned Works,2026-03-10
+L002,Northern,Underground,O001,VT01,Normal,2026-03-04
+L003,Victoria,Underground,O001,VT01,Minor Delays,2026-03-05
+L004, Piccadilly ,UNDERGROUND,O001,VT01,Planned Works,2026-03-15
+L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-15
+L006,District, Underground ,O001,VT01,Reduced,2026-03-10
+L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-15
+L008,BAKERLOO,Underground,O001,VT01,Reduced,2026-03-10
+L009,DLR,Light Rail,O002,VT04,Planned Works,2026-03-07
+L010,London Overground,Overground,O008,VT05,Normal,2026-03-09
+L011,Elizabeth line,Rail,O001,VT06,Normal,2026-03-07
+L012,Route 24,BUS,O004,VT02,Minor Delays,2026-03-13
+L013,Route 38,Bus,O005,VT02,Minor Delays,2026-03-08
+L014,Route 73,Bus,O006,VT02,Minor Delays,2026-03-07
+L015,Route 149,Bus,O007,VT02,Minor Delays,2026-03-02
+L016,Tramlink,Tram,O001,VT07,Reduced,2026-03-12
+L001,CENTRAL,Underground,O001,VT01,Minor Delays,2026-03-12
+L002,Northern,Underground,O001,VT01,Minor Delays,2026-03-06
+L003,Victoria,UNDERGROUND,O001,VT01,Planned Works,2026-03-08
+L004,Piccadilly,Underground,O001,VT01,Reduced,2026-03-02
+L005,Jubilee,Underground,O001,VT01,Minor Delays,2026-03-02
+L006, District ,Underground,O001,VT01,Normal,2026-03-10
+L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-01
+L008,Bakerloo,Underground,O001,VT01,Normal,2026-03-12
+L009,DLR,Light Rail,O002,VT04,Reduced,2026-03-10
+L010,London Overground,Overground,O008,VT05,Reduced,2026-03-03
+L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-02
+L012,Route 24,Bus,O004,VT02,Planned Works,2026-03-08
+L013,Route 38,Bus,O005,VT02,Reduced,2026-03-12
+L014,Route 73,Bus,O006,VT02,Reduced,2026-03-08
+L015,route 149,Bus,O007,VT02,Minor Delays,2026-03-06
+L016,Tramlink,bus,O001,VT07,Planned Works,2026-03-08
+L001,Central,Underground,O001,VT01,Reduced,2026-03-05
+L002,Northern,Underground,O001,VT01,Reduced,2026-03-08
+L003,Victoria,Underground,O001,VT01,Planned Works,2026-03-05
+L004,Piccadilly,Underground,O001,VT01,Reduced,2026-03-06
+L005,Jubilee,Underground,O001,VT01,Minor Delays,2026-03-06
+L006,district,Underground,O001,VT01,Reduced,2026-03-11
+L007,Circle, Underground ,O001,VT01,Minor Delays,2026-03-12
+L008,Bakerloo,Underground,O001,VT01,Normal,2026-03-14
+L009,DLR,Light Rail,O002,VT04,Minor Delays,2026-03-03
+L010,London Overground,Overground,O008,VT05,Reduced,2026-03-12
+L011,Elizabeth line,Rail,O001,VT06,Minor Delays,2026-03-10
+L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-09
+L013, Route 38 ,Bus,O005,VT02,Normal,2026-03-02
+L014,Route 73,Bus,O006,VT02,Planned Works,2026-03-03
+L015,Route 149, Bus ,O007,VT02,Minor Delays,2026-03-13
+L016,Tramlink,Tram,O001,VT07,Normal,2026-03-01
+L001,CENTRAL,Underground,O001,VT01,Reduced,2026-03-08
+L002,Northern,Underground,O001,VT01,Reduced,2026-03-06
+L003,Victoria,Underground,O001,VT01,Planned Works,2026-03-07
+L004,Piccadilly,UNDERGROUND,O001,VT01,Reduced,2026-03-06
+L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-09
+L006,District,Underground,O001,VT01,Minor Delays,2026-03-12
+L007,Circle,Underground,O001,VT01,Planned Works,2026-03-01
+L008,Bakerloo,underground,O001,VT01,Planned Works,2026-03-11
+L009,dlr,Light Rail,O002,VT04,Reduced,2026-03-09
+L010,London Overground,Overground,O008,VT05,Minor Delays,2026-03-08
+L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-03
+L012,Route 24,Bus,O004,VT02,Normal,2026-03-12
+L013,Route 38,Bus,O005,VT02,Minor Delays,2026-03-07
+L014, Route 73 ,Bus,O006,VT02,Planned Works,2026-03-13
+L015,Route 149,Bus,O007,VT02,Normal,2026-03-13
+L016,Tramlink,Tram,O001,VT07,Planned Works,2026-03-04
+L001,Central,Underground,O001,VT01,Minor Delays,2026-03-09
+L002,Northern,Underground,O001,VT01,Minor Delays,2026-03-10
+L003,Victoria,underground,O001,VT01,Planned Works,2026-03-14
+L004,Piccadilly,Underground,O001,VT01,Planned Works,2026-03-15
+L005,Jubilee,UNDERGROUND,O001,VT01,Reduced,2026-03-06
+L006,district,Underground,O001,VT01,Reduced,2026-03-06
+L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-10
+L008,Bakerloo,Underground,O001,VT01,Reduced,2026-03-08
+L009,DLR,Light Rail,O002,VT04,Reduced,2026-03-09
+L010,London Overground,Overground,O008,VT05,Reduced,2026-03-06
+L011,Elizabeth line,Rail,O001,VT06,Planned Works,2026-03-01
+L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-09
+L013,Route 38,Bus,O005,VT02,Minor Delays,2026-03-07
+L014,Route 73,Bus,O006,VT02,Reduced,2026-03-02
+L015,Route 149,Bus,O007,VT02,Reduced,2026-03-05
+L016, Tramlink ,Tram,O001,VT07,Planned Works,2026-03-03
+L001,Central,Underground,O001,VT01,Minor Delays,2026-03-09
+L002,Northern,Underground,O001,VT01,Planned Works,2026-03-13
+L003,Victoria,Underground,O001,VT01,Normal,2026-03-13
+L004,Piccadilly,Underground,O001,VT01,Minor Delays,2026-03-02
+L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-05
+L006,District, Underground ,O001,VT01,Planned Works,2026-03-06
+L007,Circle,UNDERGROUND,O001,VT01,Normal,2026-03-13
+L008,Bakerloo,Underground,O001,VT01,Planned Works,2026-03-14
+L009,DLR,Light Rail,O002,VT04,Reduced,2026-03-10
+L010,London Overground,Overground,O008,VT05,Reduced,2026-03-13
+L011, Elizabeth line ,Rail,O001,VT06,Planned Works,2026-03-10
+L012,Route 24,Bus,O004,VT02,Planned Works,2026-03-05
+L013,Route 38,Bus,O005,VT02,Normal,2026-03-03
+L014,Route 73,Bus,O006,VT02,Normal,2026-03-05
+L015,Route 149,bus,O007,VT02,Reduced,2026-03-04
+L016,Tramlink,Tram,O001,VT07,Reduced,2026-03-13
+L001,Central,Underground,O001,VT01,Reduced,2026-03-10
+L002,Northern,Underground,O001,VT01,Minor Delays,2026-03-08
+L003,VICTORIA,Underground,O001,VT01,Normal,2026-03-07
+L004,Piccadilly,Underground,O001,VT01,Planned Works,2026-03-08
+L005,Jubilee,Underground,O001,VT01,Normal,2026-03-14
+L006,District,Underground,O001,VT01,Minor Delays,2026-03-11
+L007,Circle,Underground,O001,VT01,Normal,2026-03-13
+L008,Bakerloo,Underground,O001,VT01,Minor Delays,2026-03-14
+L009,DLR,Light Rail,O002,VT04,Planned Works,2026-03-06
+L010,London Overground,Overground,O008,VT05,Minor Delays,2026-03-13
+L011,Elizabeth line,Rail,O001,VT06,Normal,2026-03-01
+L012,ROUTE 24,Bus,O004,VT02,Minor Delays,2026-03-01
+L013,route 38,Bus,O005,VT02,Minor Delays,2026-03-08
+L014, Route 73 ,Bus,O006,VT02,Reduced,2026-03-12
+L015,Route 149,Bus,O007,VT02,Planned Works,2026-03-03
+L016,Tramlink,Tram,O001,VT07,Normal,2026-03-11
+L001,Central,UNDERGROUND,O001,VT01,Reduced,2026-03-01
+L002,Northern,Underground,O001,VT01,Reduced,2026-03-07
+L003,Victoria,Underground,O001,VT01,Normal,2026-03-04
+L004,Piccadilly,Underground,O001,VT01,Reduced,2026-03-09
+L005,Jubilee, Underground ,O001,VT01,Planned Works,2026-03-14
+L006,district,Underground,O001,VT01,Reduced,2026-03-08
+L007,CIRCLE,Underground,O001,VT01,Normal,2026-03-02
+L008,Bakerloo,Underground,O001,VT01,Reduced,2026-03-07
+L009,DLR,Light Rail,O002,VT04,Reduced,2026-03-11
+L010,London Overground,Overground,O008,VT05,Normal,2026-03-10
+L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-11
+L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-14
+L013,Route 38,Bus,O005,VT02,Reduced,2026-03-13
+L014,route 73,Bus,O006,VT02,Planned Works,2026-03-07
+L015,Route 149,Bus,O007,VT02,Planned Works,2026-03-11
+L016,TRAMLINK,Tram,O001,VT07,Planned Works,2026-03-13
+L001,Central, Underground ,O001,VT01,Planned Works,2026-03-04
+L002,Northern,Underground,O001,VT01,Minor Delays,2026-03-05
+L003,Victoria,Underground,O001,VT01,Reduced,2026-03-08
+L004,Piccadilly,Underground,O001,VT01,Normal,2026-03-09
+L005,Jubilee, Underground ,O001,VT01,Planned Works,2026-03-15
+L006,District,Underground,O001,VT01,Minor Delays,2026-03-06
+L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-13
+L008,BAKERLOO,Underground,O001,VT01,Normal,2026-03-05
+L009,DLR,Light Rail,O002,VT04,Minor Delays,2026-03-09
+L010,London Overground,Overground,O008,VT05,Minor Delays,2026-03-07
+L011,  Central  ,RAIL,O001,VT06,Reduced,2026-03-05
+L012,ROUTE 24,BUS,O004,VT02,Reduced,2026-03-13
+L013,Route 38,Bus,O005,VT02,Normal,2026-03-05
+L014,Route 73,Bus,O006,VT02,Reduced,2026-03-01
+L015,Route 149,Bus,O007,VT02,Normal,2026-03-08
+L016,Tramlink, Tram ,O001,VT07,Reduced,2026-03-02
+L001, Central ,Underground,O001,VT01,Normal,2026-03-03
+L002,Northern,Underground,O001,VT01,Planned Works,2026-03-03
+L003,Victoria,Underground,O001,VT01,Planned Works,2026-03-12
+L004,Piccadilly,Underground,O001,VT01,Normal,2026-03-06
+L005,Jubilee,Underground,O001,VT01,Normal,2026-03-05
+L006,District,Underground,O001,VT01,Normal,2026-03-08
+L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-14
+L008,Bakerloo,Underground,O001,VT01,Planned Works,2026-03-13
+L009,dlr,Light Rail,O002,VT04,Normal,2026-03-04
+L010,London Overground, Overground ,O008,VT05,Normal,2026-03-04
+L011, Elizabeth line ,Rail,O001,VT06,Reduced,2026-03-03
+L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-04
+L013,Route 38,Bus,O005,VT02,Planned Works,2026-03-05
+L014,Route 73,Bus,O006,VT02,Normal,2026-03-09
+L015,Route 149, Bus ,O007,VT02,Reduced,2026-03-13
+L016,Tramlink, Tram ,O001,VT07,Minor Delays,2026-03-02
+L001,Central,Underground,O001,VT01,Planned Works,2026-03-06
+L002,NORTHERN,Underground,O001,VT01,Planned Works,2026-03-04
+L003,Victoria,Underground,O001,VT01,Reduced,2026-03-08
+L004,Piccadilly,Underground,O001,VT01,Reduced,2026-03-12
+L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-03
+L006, District ,Underground,O001,VT01,Reduced,2026-03-09
+L007,Circle,Underground,O001,VT01,Normal,2026-03-06
+L008, Bakerloo ,Underground,O001,VT01,Planned Works,2026-03-02
+L009,DLR,Light Rail,O002,VT04,Minor Delays,2026-03-08
+L010,London Overground,Overground,O008,VT05,Reduced,2026-03-12
+L011,Elizabeth line, Rail ,O001,VT06,Reduced,2026-03-15
+L012,Route 24,Bus,O004,VT02,Planned Works,2026-03-08
+L013,Route 38,BUS,O005,VT02,Normal,2026-03-09
+L014,Route 73,Bus,O006,VT02,Normal,2026-03-10
+L015,Route 149,Bus,O007,VT02,Reduced,2026-03-04
+L016,Tramlink,Tram,O001,VT07,Minor Delays,2026-03-12
+L001,Central,Underground,O001,VT01,Minor Delays,2026-03-05
+L002,Northern,Underground,O001,VT01,Reduced,2026-03-13
+L003,Victoria,underground,O001,VT01,Normal,2026-03-03
+L004,Piccadilly,Underground,O001,VT01,Normal,2026-03-09
+L005,Jubilee,Underground,O001,VT01,Minor Delays,2026-03-05
+L006,District,Underground,O001,VT01,Normal,2026-03-03
+L007,Circle,Underground,O001,VT01,Normal,2026-03-04
+L008,Bakerloo,Underground,O001,VT01,Normal,2026-03-12
+L009,DLR,Light Rail,O002,VT04,Normal,2026-03-11
+L010,London Overground,Overground,O008,VT05,Reduced,2026-03-01
+L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-02
+L012,Route 24,Bus,O004,VT02,Reduced,2026-03-02

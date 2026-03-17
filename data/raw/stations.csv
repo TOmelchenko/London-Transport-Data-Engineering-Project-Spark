@@ -1,0 +1,222 @@
+station_id,station_name,borough_id,zone_id,line_id,station_type
+S0001, Victoria Station ,B009,Z2,L008,Bus Hub
+S0002,Waterloo Gate,B018,Z1,L014,Underground
+S0003,Baker Street Station,B007,Z2,L001,DLR
+S0004,Green Park Gate,B018,Z4,L008,Interchange
+S0005,Shepherd's Bush Central,B001,Z2,L014,Rail
+S0006,Brixton Interchange,B007,Z3,L004, Underground 
+S0007,SOUTH KENSINGTON STATION,B012,Z3,L009,Underground
+S0008,Bow Road Road,B004,Z4,L003,dlr
+S0009,Hammersmith Park,B020,Z3,L007,Tram
+S0010,Canary Wharf Station,B008,Z3,L999, Bus Hub 
+S0011,Waterloo Junction,B009,Z4,L012,Bus Hub
+S0012,Acton Central,B007,Z6,L009,Tram
+S0013,Canary Wharf Road,B006,Z5,L008, Bus Hub 
+S0014,Bow Road Junction,B009,Z6,L008,Tram
+S0015,Whitechapel Park,B002,Z2,L002,Rail
+S0016,Notting Hill Gate Central,B003,Z2,L011,Bus Hub
+S0017, Clapham Common Junction ,B015,Z2,L009,Bus Hub
+S0018,Stratford Gate,B018,Z5,L009,Tram
+S0019,Shepherd's Bush Junction,B019,Z4,L012,Bus Hub
+S0020,EUSTON ROAD,B016,Z1,L002,Underground
+S0021,London Bridge Gate,B006,Z6,L014,DLR
+S0022,Canary Wharf Junction,B013,Z5,L015,DLR
+S0023,Wembley Park Road,B001,Z6,L004,Tram
+S0024,Tottenham Hale Park,B009,Z6,L011,Underground
+S0025,Hammersmith Junction,B006,Z4,L001,Tram
+S0026,,B004,Z6,L010,Tram
+S0027,Walthamstow Road,B007,Z2,L012,Bus Hub
+S0028,Highbury Station,B020,Z3,L016,Underground
+S0029,Victoria Central,B010,Z2,L002,Bus Hub
+S0030,Kew Gardens Station,B003,Z6,L016,Underground
+S0031, Euston Interchange ,B016,Z5,L006,Rail
+S0032,Highbury Park,B020,Z4,L007,DLR
+S0033,Ealing Broadway Junction,B012,Z4,L015,Underground
+S0034,stratford interchange,B003,Z3,L001,DLR
+S0035,Richmond Interchange,B019,Z2,L001,Underground
+S0036,Liverpool Street Interchange,B003,Z1,L011, Underground 
+S0037,Walthamstow Interchange,B009,Z6,L016,Bus Hub
+S0038,Tottenham Hale Interchange,B019,Z5,L016,Bus Hub
+S0039,Elephant & Castle Park,B014,Z2,L004,Underground
+S0040,Moorgate Central,B014,Z4,L015,Tram
+S0041,Liverpool Street Gate,B004,Z1,L013,Tram
+S0042,Lewisham Park,B004,Z2,L007,Bus Hub
+S0043, Tottenham Hale Junction ,B005,Z4,L006,Rail
+S0044,Bow Road Interchange,B003,Z4,L004,Underground
+S0045,Paddington Station,B008,Z2,L014,Interchange
+S0046,Elephant & Castle Interchange,B013,Z1,L006,Interchange
+S0047,Paddington Junction,B009,Z4,L010,Interchange
+S0048,Richmond Gate,B016,Z2,L007,RAIL
+S0049,Finsbury Park Station,B019,Z6,L002,Tram
+S0050,Whitechapel Station,B002,Z5,L016, DLR 
+S0051,Highbury Interchange,B002,Z5,L003,Bus Hub
+S0052,Canary Wharf Gate,B008,Z4,L004,DLR
+S0053,Stratford Road,B020,Z1,L003,Interchange
+S0054,Shepherd's Bush Road,B017,Z3,L009, Bus Hub 
+S0055,Whitechapel Interchange,B009,Z4,L005,Tram
+S0056,Finsbury Park Road,B009,Z2,L012,Underground
+S0057,Stratford Central,B010,Z2,L015,DLR
+S0058,Ealing Broadway Road,B017,Z1,L010,Tram
+S0059,Waterloo Interchange,B009,Z1,L004,tram
+S0060,Brixton Central,B020,Z2,L011,Bus Hub
+S0061,Clapham Common Central,B002,Z1,L014,Rail
+S0062,Oxford Circus Station,B011,Z2,L009,Bus Hub
+S0063,Mile End Road,B014,Z5,L001,Underground
+S0064,London Bridge Road,B002,Z3,L005,Interchange
+S0065,Euston Station,B010,Z3,L002,Rail
+S0066,Finsbury Park Gate,B008,Z6,L004,Rail
+S0067,Richmond Park,B014,Z5,L005,Bus Hub
+S0068,Holborn Park,B006,Z4,L001,bus hub
+S0069,Angel Park,B008,Z3,L006,Tram
+S0070,Oxford Circus Park,B016,Z2,L007,Interchange
+S0071,Croydon Central,B008,Z2,L001,Tram
+S0072, Green Park Junction ,B011,Z3,L003,Rail
+S0073,Croydon Gate,B017,Z4,L011,Underground
+S0074,Wembley Park Station,B004,Z5,L014,Rail
+S0075,Whitechapel Junction,B020,Z5,L004,Interchange
+S0076,Kew Gardens Interchange,B009,Z1,L014,Underground
+S0077,Tottenham Hale Gate,B007,Z3,L014,Underground
+S0078,Lewisham Road,B011,Z6,L004,TRAM
+S0079,Ealing Broadway Gate,B014,Z3,L013,Tram
+S0080,Hammersmith Road,B005,Z2,L014,Tram
+S0081,South Kensington Gate,B006,Z5,L010,Interchange
+S0082,PADDINGTON CENTRAL,B010,Z2,L014,DLR
+S0083,charing cross gate,B011,Z4,L015, Interchange 
+S0084,Holborn Gate,B003,Z3,L011,Underground
+S0085,Ealing Broadway Interchange,B007,Z2,L001,Underground
+S0086,Stratford Junction,B020,Z1,L015,Interchange
+S0087,South Kensington Junction,B013,Z2,L005,tram
+S0088,Paddington Park,B004,Z4,L008,Bus Hub
+S0089,Highbury Junction,B002,Z5,L008,Underground
+S0090,Bow Road Gate,B017,Z5,L011,INTERCHANGE
+S0091,Blackfriars Park,B017,Z4,L015,Bus Hub
+S0092,Elephant & Castle Junction,B009,Z2,L009,DLR
+S0093,CLAPHAM COMMON GATE,B008,Z3,L015,Underground
+S0094,Hammersmith Interchange,B009,Z3,L011,DLR
+S0095,King's Cross Interchange,B005,Z2,L013,Tram
+S0096,ANGEL JUNCTION,B011,Z5,L015,Interchange
+S0097,Shepherd's Bush Gate,B001,Z5,L013,Interchange
+S0098, Ealing Broadway Park ,B013,Z4,L008,Interchange
+S0099,Camden Town Central,B014,Z4,L001,Interchange
+S0100,Lewisham Gate,B013,Z6,L006,interchange
+S0101,Tottenham Hale Station,B013,Z5,L001,Underground
+S0102,Moorgate Interchange,B015,Z2,L002,Rail
+S0103,South Kensington Central,B007,Z4,L011,Rail
+S0104,Angel Central,B003,Z4,L001,Tram
+S0105, Croydon Interchange ,B003,Z6,L002,Underground
+S0106,Baker Street Road,B005,Z2,L005,Interchange
+S0107,Victoria Road,B007,Z4,L009,Rail
+S0108,Holborn Road,B020,Z6,L004,Bus Hub
+S0109,Ealing Broadway Station,B019,Z1,L010,DLR
+S0110, Green Park Station ,B019,Z6,L008,Underground
+S0111,Charing Cross Park,B004,Z5,L002,RAIL
+S0112,Acton Station,B017,,L011,Underground
+S0113,Clapham Common Station,B014,Z3,L015,Tram
+S0114,London Bridge Junction,B006,Z6,L009,DLR
+S0115,Moorgate Park,B019,Z3,L011,Bus Hub
+S0116,King's Cross Central,B015,Z2,L015,DLR
+S0117,Blackfriars Gate,B013,Z3,L001,Interchange
+S0118,Clapham Common Interchange,B012,Z3,L011,Rail
+S0119,Brixton Road,B001,Z5,L007,UNDERGROUND
+S0120,Elephant & Castle Gate,B016,Z4,L001,Underground
+S0121,NOTTING HILL GATE GATE,B008,Z3,L012,Interchange
+S0122,Richmond Road,B012,Z4,L011,Rail
+S0123,Bow Road Central,B010,Z3,L008,Underground
+S0124,Green Park Central,B004,Z6,L006,Bus Hub
+S0125,Elephant & Castle Central,B019,Z5,L010,Underground
+S0126,Bank Central,B001,Z6,L005,Rail
+S0127,Richmond Central,B005,Z6,L016,Underground
+S0128,PADDINGTON ROAD,B010,Z4,L016,Interchange
+S0129,Lewisham Interchange,B002,Z3,L016,Underground
+S0130,Kew Gardens Gate,B002,Z2,L005,DLR
+S0131,Stratford Station,B018,Z4,L008,DLR
+S0132,mile end central,B019,Z4,L010,DLR
+S0133,Blackfriars Station,B020,Z6,L004,Bus Hub
+S0134,Finsbury Park Central,B003,Z2,L008,Bus Hub
+S0135,richmond station,B006,Z1,L014,Interchange
+S0136,Charing Cross Junction,B010,Z1,L008,Rail
+S0137,Hammersmith Gate,B015,Z1,L008,Rail
+S0138,Camden Town Gate,B005,Z3,L005,Underground
+S0139,Kew Gardens Central,B015,Z1,L015,Tram
+S0140,KING'S CROSS ROAD,B002,Z4,L011,DLR
+S0141,Kew Gardens Road,B001,Z6,L009,DLR
+S0142,Bank Junction,B017,Z6,L015,Rail
+S0143,Moorgate Gate,B016,Z1,L016,Rail
+S0144,Whitechapel Gate,B004,Z2,L011,Interchange
+S0145,Notting Hill Gate Park,B018,Z1,L015,Underground
+S0146,Whitechapel Central,B011,Z1,L013,DLR
+S0147,Paddington Gate,B018,Z4,L014,Underground
+S0148,Green Park Road,B012,Z5,L016,Tram
+S0149,mile end park,B002,Z2,L009,DLR
+S0150,Euston Central,B015,Z6,L016,Underground
+S0151,Baker Street Gate,B020,Z2,L006,Rail
+S0152,Richmond Junction,B003,Z2,L004,Interchange
+S0153, Victoria Gate ,B005,Z4,L010,DLR
+S0154,Brixton Junction,B016,Z4,L008,Interchange
+S0155,South Kensington Interchange,B020,Z5,L005, Underground 
+S0156,Brixton Park,B014,Z3,L009,Underground
+S0157,Clapham Common Park,B005,Z4,L016,Rail
+S0158,Angel Station,B011,Z6,L016,Tram
+S0159, Oxford Circus Interchange ,B017,Z5,L011,Underground
+S0160,Mile End Station,B017,Z4,L001,Tram
+S0161,London Bridge Station,B016,Z3,L011,DLR
+S0162,KING'S CROSS PARK,B011,Z6,L013,Rail
+S0163,King's Cross Junction,B004,Z6,L004,Interchange
+S0164,Oxford Circus Central,B002,Z3,L012,Rail
+S0165,Angel Road,B006,Z2,L006,Underground
+S0166,South Kensington Road,B008,Z4,L005,Bus Hub
+S0167,Wembley Park Junction,B009,Z6,L001,Interchange
+S0168,Croydon Road,B010,Z6,L014,Tram
+S0169,South Kensington Park,B016,Z1,L008,Interchange
+S0170,Hammersmith Station,B013,Z3,L001,DLR
+S0171,Liverpool Street Road,B016,Z3,L008,DLR
+S0172,Wembley Park Gate,B005,Z6,L004,Tram
+S0173,Hammersmith Central,B014,Z2,L007, Bus Hub 
+S0174,Tottenham Hale Central,B017,Z5,L009,Bus Hub
+S0175,Wembley Park Park,B016,Z3,L011,Underground
+S0176,Bow Road Station,B005,Z2,L013,DLR
+S0177,Notting Hill Gate Station,B009,Z5,L004,Interchange
+S0178,Acton Gate,B009,Z5,L013,Tram
+S0179,Camden Town Junction,B001,Z5,L011,dlr
+S0180, Waterloo Park ,B016,Z5,L014,Rail
+S0181,Oxford Circus Gate,B012,Z2,L015,Interchange
+S0182,Stratford Park,B012,Z1,L012,DLR
+S0183,Croydon Station,B013,Z3,L007,Underground
+S0184,Charing Cross Station,B002,Z3,L008,Bus Hub
+S0185,Canary Wharf Park,B018,Z2,L007,Bus Hub
+S0186,London Bridge Park,B020,Z1,L009,Bus Hub
+S0187,Bank Station,B001,Z2,L001,Rail
+S0188,Acton Road,B019,Z1,L015,DLR
+S0189,Camden Town Road,B002,Z6,L010,Interchange
+S0190,Notting Hill Gate Junction,B004,Z4,L015, Underground 
+S0191,Charing Cross Interchange,B003,Z2,L009,DLR
+S0192, Charing Cross Road ,B010,Z4,L014,Underground
+S0193,Victoria Park,B018,Z6,L007,Interchange
+S0194, Mile End Interchange ,B014,Z3,L015,Interchange
+S0195,Angel Gate,B004,Z3,L014,Rail
+S0196,Wembley Park Central,B005,Z6,L016,Underground
+S0197,King's Cross Station,B014,Z1,L012,Bus Hub
+S0198,Victoria Junction,B012,Z6,L014,Tram
+S0199,Liverpool Street Central,B020,Z3,L012,Underground
+S0200,Finsbury Park Interchange,B016,Z2,L004,Rail
+S0201,camden town park,B014,Z5,L001,DLR
+S0202,Brixton Station,B006,Z3,L010,Rail
+S0203,Bank Park,B005,Z5,L013,Underground
+S0204,Holborn Central,B010,Z6,L011,DLR
+S0205,mile end gate,B014,Z4,L015,INTERCHANGE
+S0206,Walthamstow Station,B012,Z4,L004,Rail
+S0207,Highbury Gate,B010,Z1,L008,Interchange
+S0208,Paddington Interchange,B010,Z2,L005,Rail
+S0209,Euston Junction,B018,Z6,L008,DLR
+S0210,Oxford Circus Junction,B001,Z4,L003,Rail
+S0211,Kew Gardens Junction,B019,Z4,L014,Rail
+S0212,Baker Street Central,B006,Z5,L015,Tram
+S0213,Moorgate Road,B013,Z5,L003,Interchange
+S0214,Holborn Station,B017,Z6,L004,DLR
+S0215,London Bridge Interchange,B004,Z2,L009,Bus Hub
+S0216,Canary Wharf Interchange,B016,Z4,L015, Tram 
+S0217,Blackfriars Central,B011,Z2,L015,Underground
+S0218,Liverpool Street Junction,B004,Z3,L003,DLR
+S0219,Mile End Junction,B017,Z5,L006,Rail
+S0220,Lewisham Station,B011,Z1,L013,Rail
+S0051,Highbury Interchange,B002,Z5,L003,Bus Hub

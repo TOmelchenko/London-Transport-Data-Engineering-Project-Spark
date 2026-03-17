@@ -1,0 +1,2402 @@
+[
+  {
+    "journey_id": "J00001",
+    "station_id": "S0078",
+    "line_id": "L004",
+    "passenger_count": "1699",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-10",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00002",
+    "station_id": "S0113",
+    "line_id": "L015",
+    "passenger_count": "1678",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-14",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00003",
+    "station_id": "S0021",
+    "line_id": "L014",
+    "passenger_count": "979",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-27",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00004",
+    "station_id": "S0109",
+    "line_id": "L010",
+    "passenger_count": "1703",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-23",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00005",
+    "station_id": "S0017",
+    "line_id": "L009",
+    "passenger_count": "876",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-24",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00006",
+    "station_id": "S0178",
+    "line_id": "L013",
+    "passenger_count": "1575",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-21",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00007",
+    "station_id": "S0114",
+    "line_id": "L009",
+    "passenger_count": "many",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-07",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00008",
+    "station_id": "S0148",
+    "line_id": "L016",
+    "passenger_count": "241",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-08",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00009",
+    "station_id": "S0176",
+    "line_id": "L013",
+    "passenger_count": "1638",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-15",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00010",
+    "station_id": "S0035",
+    "line_id": "L001",
+    "passenger_count": "370",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-19",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00011",
+    "station_id": "S0051",
+    "line_id": "L003",
+    "passenger_count": "863",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-06",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00012",
+    "station_id": "S0214",
+    "line_id": "L004",
+    "passenger_count": "57",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-18",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00013",
+    "station_id": "S0119",
+    "line_id": "L007",
+    "passenger_count": "551",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-02",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00014",
+    "station_id": "S0110",
+    "line_id": "L008",
+    "passenger_count": "320",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-12",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00015",
+    "station_id": "S0031",
+    "line_id": "L006",
+    "passenger_count": "1486",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-14",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00016",
+    "station_id": "S0127",
+    "line_id": "L016",
+    "passenger_count": "474",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-07",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00017",
+    "station_id": "S0192",
+    "line_id": "L014",
+    "passenger_count": "797",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-14",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00018",
+    "station_id": "S0056",
+    "line_id": "L012",
+    "passenger_count": "1503",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-07",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00019",
+    "station_id": "S0105",
+    "line_id": "L002",
+    "passenger_count": "73",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-09",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00020",
+    "station_id": "S0116",
+    "line_id": "L015",
+    "passenger_count": "772",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-22",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00021",
+    "station_id": "S0003",
+    "line_id": "L001",
+    "passenger_count": "287",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-23",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00022",
+    "station_id": "S0055",
+    "line_id": "L005",
+    "passenger_count": "1465",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-24",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00023",
+    "station_id": "S0025",
+    "line_id": "L001",
+    "passenger_count": "121",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-08",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00024",
+    "station_id": "S0156",
+    "line_id": "L009",
+    "passenger_count": "25",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-17",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00025",
+    "station_id": "S0102",
+    "line_id": "L002",
+    "passenger_count": "285",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-02",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00026",
+    "station_id": "S0044",
+    "line_id": "L004",
+    "passenger_count": "709",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-05",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00027",
+    "station_id": "S0182",
+    "line_id": "L012",
+    "passenger_count": "305",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-04",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00028",
+    "station_id": "S0033",
+    "line_id": "L015",
+    "passenger_count": "1800",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-24",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00029",
+    "station_id": "S0073",
+    "line_id": "L011",
+    "passenger_count": "1270",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-17",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00030",
+    "station_id": "S0043",
+    "line_id": "L006",
+    "passenger_count": "1524",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-25",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00031",
+    "station_id": "S0219",
+    "line_id": "L006",
+    "passenger_count": "123",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-05",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00032",
+    "station_id": "S0047",
+    "line_id": "L010",
+    "passenger_count": "978",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-06",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00033",
+    "station_id": "S0030",
+    "line_id": "L016",
+    "passenger_count": "98",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-12",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00034",
+    "station_id": "S0127",
+    "line_id": "L016",
+    "passenger_count": "1747",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-04",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00035",
+    "station_id": "S0053",
+    "line_id": "L003",
+    "passenger_count": "384",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-24",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00036",
+    "station_id": "S9999",
+    "line_id": "L001",
+    "passenger_count": "1210",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-17",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00037",
+    "station_id": "S0020",
+    "line_id": "L002",
+    "passenger_count": "1588",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-22",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00038",
+    "station_id": "S0007",
+    "line_id": "L009",
+    "passenger_count": "1410",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-04",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00039",
+    "station_id": "S0152",
+    "line_id": "L004",
+    "passenger_count": "1729",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-05",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00040",
+    "station_id": "S0118",
+    "line_id": "L011",
+    "passenger_count": "944",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-09",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00041",
+    "station_id": "S0012",
+    "line_id": "L009",
+    "passenger_count": "680",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-05",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00042",
+    "station_id": "S0206",
+    "line_id": "L004",
+    "passenger_count": "676",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-24",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00043",
+    "station_id": "S0155",
+    "line_id": "L005",
+    "passenger_count": "204",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-09",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00044",
+    "station_id": "S0198",
+    "line_id": "L014",
+    "passenger_count": "197",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-28",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00045",
+    "station_id": "S0100",
+    "line_id": "L006",
+    "passenger_count": "598",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-25",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00046",
+    "station_id": "S0077",
+    "line_id": "L014",
+    "passenger_count": "1655",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-24",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00047",
+    "station_id": "S0155",
+    "line_id": "L005",
+    "passenger_count": "750",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-04",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00048",
+    "station_id": "S0052",
+    "line_id": "L004",
+    "passenger_count": "927",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-16",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00049",
+    "station_id": "S0154",
+    "line_id": "L008",
+    "passenger_count": "199",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-26",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00050",
+    "station_id": "S0048",
+    "line_id": "L007",
+    "passenger_count": "1306",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-03",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00051",
+    "station_id": "S0088",
+    "line_id": "L008",
+    "passenger_count": "1400",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-21",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00052",
+    "station_id": "S0135",
+    "line_id": "L014",
+    "passenger_count": "610",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-14",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00053",
+    "station_id": "S0077",
+    "line_id": "L014",
+    "passenger_count": "276",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-10",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00054",
+    "station_id": "S0110",
+    "line_id": "L008",
+    "passenger_count": "1179",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-18",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00055",
+    "station_id": "S0132",
+    "line_id": "L010",
+    "passenger_count": "1060",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-14",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00056",
+    "station_id": "S0170",
+    "line_id": "L001",
+    "passenger_count": "742",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-19",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00057",
+    "station_id": "S0005",
+    "line_id": "L014",
+    "passenger_count": "1531",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-15",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00058",
+    "station_id": "S0216",
+    "line_id": "L015",
+    "passenger_count": "107",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-14",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00059",
+    "station_id": "S0151",
+    "line_id": "L006",
+    "passenger_count": "1566",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-15",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00060",
+    "station_id": "S0208",
+    "line_id": "L005",
+    "passenger_count": "447",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-03",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00061",
+    "station_id": "S0028",
+    "line_id": "L016",
+    "passenger_count": "1109",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-01",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00062",
+    "station_id": "S0004",
+    "line_id": "L008",
+    "passenger_count": "1358",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-15",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00063",
+    "station_id": "S0191",
+    "line_id": "L009",
+    "passenger_count": "635",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-27",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00064",
+    "station_id": "S0173",
+    "line_id": "L007",
+    "passenger_count": "1662",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-03",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00065",
+    "station_id": "S0004",
+    "line_id": "L008",
+    "passenger_count": "244",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-23",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00066",
+    "station_id": "S0054",
+    "line_id": "L009",
+    "passenger_count": "1343",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-21",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00067",
+    "station_id": "S0216",
+    "line_id": "L015",
+    "passenger_count": "191",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-25",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00068",
+    "station_id": "S0122",
+    "line_id": "L011",
+    "passenger_count": "59",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-06",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00069",
+    "station_id": "S0180",
+    "line_id": "L014",
+    "passenger_count": "1008",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-01",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00070",
+    "station_id": "S0063",
+    "line_id": "L001",
+    "passenger_count": "618",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-27",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00071",
+    "station_id": "S0086",
+    "line_id": "L015",
+    "passenger_count": "225",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-28",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00072",
+    "station_id": "S0218",
+    "line_id": "L003",
+    "passenger_count": "1524",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-20",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00073",
+    "station_id": "S0125",
+    "line_id": "L999",
+    "passenger_count": "1010",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-19",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00074",
+    "station_id": "S0183",
+    "line_id": "L007",
+    "passenger_count": "1096",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-14",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00075",
+    "station_id": "S0017",
+    "line_id": "L009",
+    "passenger_count": "1342",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-16",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00076",
+    "station_id": "S0160",
+    "line_id": "L001",
+    "passenger_count": "933",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-01",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00077",
+    "station_id": "S0186",
+    "line_id": "L009",
+    "passenger_count": "976",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-15",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00078",
+    "station_id": "S0057",
+    "line_id": "L015",
+    "passenger_count": "1248",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-15",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00079",
+    "station_id": "S0186",
+    "line_id": "L009",
+    "passenger_count": "868",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-21",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00080",
+    "station_id": "S0205",
+    "line_id": "L015",
+    "passenger_count": "1288",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-10",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00081",
+    "station_id": "S0124",
+    "line_id": "L006",
+    "passenger_count": "369",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-06",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00082",
+    "station_id": "S0204",
+    "line_id": "L011",
+    "passenger_count": "1026",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-08",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00083",
+    "station_id": "S0013",
+    "line_id": "L008",
+    "passenger_count": "749",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-12",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00084",
+    "station_id": "S0212",
+    "line_id": "L015",
+    "passenger_count": "1667",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-11",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00085",
+    "station_id": "S0159",
+    "line_id": "L011",
+    "passenger_count": "262",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-08",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00086",
+    "station_id": "S0088",
+    "line_id": "L008",
+    "passenger_count": "1590",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-25",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00087",
+    "station_id": "S0219",
+    "line_id": "L006",
+    "passenger_count": "1461",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-15",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00088",
+    "station_id": "S0028",
+    "line_id": "L016",
+    "passenger_count": "1701",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-02",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00089",
+    "station_id": "S0162",
+    "line_id": "L013",
+    "passenger_count": "1798",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-12",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00090",
+    "station_id": "S0075",
+    "line_id": "L004",
+    "passenger_count": "1575",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-16",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00091",
+    "station_id": "S0166",
+    "line_id": "L005",
+    "passenger_count": "700",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-04",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00092",
+    "station_id": "S0107",
+    "line_id": "L009",
+    "passenger_count": "517",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-11",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00093",
+    "station_id": "S0044",
+    "line_id": "L004",
+    "passenger_count": "559",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-23",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00094",
+    "station_id": "S0162",
+    "line_id": "L013",
+    "passenger_count": "325",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-14",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00095",
+    "station_id": "S0206",
+    "line_id": "L004",
+    "passenger_count": "861",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-15",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00096",
+    "station_id": "S0114",
+    "line_id": "L009",
+    "passenger_count": "1592",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-23",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00097",
+    "station_id": "S0087",
+    "line_id": "L005",
+    "passenger_count": "837",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-14",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00098",
+    "station_id": "S0195",
+    "line_id": "L014",
+    "passenger_count": "1367",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-05",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00099",
+    "station_id": "S0183",
+    "line_id": "L007",
+    "passenger_count": "873",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-22",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00100",
+    "station_id": "S0191",
+    "line_id": "L009",
+    "passenger_count": "719",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-27",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00101",
+    "station_id": "S0157",
+    "line_id": "L016",
+    "passenger_count": "1449",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-15",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00102",
+    "station_id": "S0160",
+    "line_id": "L001",
+    "passenger_count": "1443",
+    "delay_minutes": "-",
+    "journey_date": "2026-02-26",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00103",
+    "station_id": "S0078",
+    "line_id": "L004",
+    "passenger_count": "90",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-11",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00104",
+    "station_id": "S0185",
+    "line_id": "L007",
+    "passenger_count": "1080",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-10",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00105",
+    "station_id": "S0131",
+    "line_id": "L008",
+    "passenger_count": "1082",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-25",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00106",
+    "station_id": "S0008",
+    "line_id": "L003",
+    "passenger_count": "509",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-24",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00107",
+    "station_id": "S0029",
+    "line_id": "L002",
+    "passenger_count": "1738",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-09",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00108",
+    "station_id": "S0013",
+    "line_id": "L008",
+    "passenger_count": "934",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-19",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00109",
+    "station_id": "S0087",
+    "line_id": "L005",
+    "passenger_count": "1664",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-19",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00110",
+    "station_id": "S0077",
+    "line_id": "L014",
+    "passenger_count": "1380",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-22",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00111",
+    "station_id": "S0097",
+    "line_id": "L013",
+    "passenger_count": "230",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-17",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00112",
+    "station_id": "S0117",
+    "line_id": "L001",
+    "passenger_count": "315",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-27",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00113",
+    "station_id": "S0024",
+    "line_id": "L011",
+    "passenger_count": "885",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-16",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00114",
+    "station_id": "S0020",
+    "line_id": "L002",
+    "passenger_count": "1401",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-13",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00115",
+    "station_id": "S0150",
+    "line_id": "L016",
+    "passenger_count": "1318",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-15",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00116",
+    "station_id": "S0107",
+    "line_id": "L009",
+    "passenger_count": "310",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-05",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00117",
+    "station_id": "S0118",
+    "line_id": "L011",
+    "passenger_count": "1457",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-28",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00118",
+    "station_id": "S0055",
+    "line_id": "L005",
+    "passenger_count": "984",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-24",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00119",
+    "station_id": "S0095",
+    "line_id": "L013",
+    "passenger_count": "1247",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-04",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00120",
+    "station_id": "S0147",
+    "line_id": "L014",
+    "passenger_count": "97",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-05",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00121",
+    "station_id": "S0079",
+    "line_id": "L013",
+    "passenger_count": "636",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-16",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00122",
+    "station_id": "S0037",
+    "line_id": "L016",
+    "passenger_count": "114",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-10",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00123",
+    "station_id": "S0210",
+    "line_id": "L003",
+    "passenger_count": "19",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-18",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00124",
+    "station_id": "S0012",
+    "line_id": "L009",
+    "passenger_count": "1000",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-10",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00125",
+    "station_id": "S0201",
+    "line_id": "L001",
+    "passenger_count": "988",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-05",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00126",
+    "station_id": "S0163",
+    "line_id": "L004",
+    "passenger_count": "1574",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-22",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00127",
+    "station_id": "S0187",
+    "line_id": "L001",
+    "passenger_count": "197",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-22",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00128",
+    "station_id": "S0060",
+    "line_id": "L011",
+    "passenger_count": "709",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-02",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00129",
+    "station_id": "S0072",
+    "line_id": "L003",
+    "passenger_count": "1788",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-23",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00130",
+    "station_id": "S0162",
+    "line_id": "L013",
+    "passenger_count": "1164",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-04",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00131",
+    "station_id": "S0159",
+    "line_id": "L011",
+    "passenger_count": "1182",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-07",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00132",
+    "station_id": "S0005",
+    "line_id": "L014",
+    "passenger_count": "1363",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-06",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00133",
+    "station_id": "S0202",
+    "line_id": "L010",
+    "passenger_count": "517",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-15",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00134",
+    "station_id": "S0156",
+    "line_id": "L009",
+    "passenger_count": "837",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-02",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00135",
+    "station_id": "S0088",
+    "line_id": "L008",
+    "passenger_count": "384",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-01",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00136",
+    "station_id": "S0066",
+    "line_id": "L004",
+    "passenger_count": "249",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-18",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00137",
+    "station_id": "S0037",
+    "line_id": "L016",
+    "passenger_count": "538",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-05",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00138",
+    "station_id": "S0174",
+    "line_id": "L009",
+    "passenger_count": "135",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-11",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00139",
+    "station_id": "S0183",
+    "line_id": "L007",
+    "passenger_count": "625",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-04",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00140",
+    "station_id": "S0106",
+    "line_id": "L005",
+    "passenger_count": "543",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-27",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00141",
+    "station_id": "S0052",
+    "line_id": "L004",
+    "passenger_count": "1555",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-19",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00142",
+    "station_id": "S0131",
+    "line_id": "L008",
+    "passenger_count": "250",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-02",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00143",
+    "station_id": "S0142",
+    "line_id": "L015",
+    "passenger_count": "149",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-01",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00144",
+    "station_id": "S0060",
+    "line_id": "L011",
+    "passenger_count": "566",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-19",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00145",
+    "station_id": "S0196",
+    "line_id": "L016",
+    "passenger_count": "638",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-14",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00146",
+    "station_id": "S0217",
+    "line_id": "L015",
+    "passenger_count": "1618",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-12",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00147",
+    "station_id": "S0138",
+    "line_id": "L005",
+    "passenger_count": "1151",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-02",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00148",
+    "station_id": "S0213",
+    "line_id": "L003",
+    "passenger_count": "1352",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-01",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00149",
+    "station_id": "S0070",
+    "line_id": "L007",
+    "passenger_count": "1734",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-13",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00150",
+    "station_id": "S0055",
+    "line_id": "L005",
+    "passenger_count": "108",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-24",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00151",
+    "station_id": "S0023",
+    "line_id": "L004",
+    "passenger_count": "1445",
+    "delay_minutes": "0",
+    "journey_date": "2026/02/14",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00152",
+    "station_id": "S0143",
+    "line_id": "L016",
+    "passenger_count": "899",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-20",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00153",
+    "station_id": "S0088",
+    "line_id": "L008",
+    "passenger_count": "1556",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-09",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00154",
+    "station_id": "S0083",
+    "line_id": "L015",
+    "passenger_count": "446",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-20",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00155",
+    "station_id": "S0178",
+    "line_id": "L013",
+    "passenger_count": "1338",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-20",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00156",
+    "station_id": "S0003",
+    "line_id": "L001",
+    "passenger_count": "861",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-23",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00157",
+    "station_id": "S0138",
+    "line_id": "L005",
+    "passenger_count": "1627",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-21",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00158",
+    "station_id": "S0008",
+    "line_id": "L003",
+    "passenger_count": "1391",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-12",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00159",
+    "station_id": "S0092",
+    "line_id": "L009",
+    "passenger_count": "377",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-04",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00160",
+    "station_id": "S0050",
+    "line_id": "L016",
+    "passenger_count": "34",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-24",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00161",
+    "station_id": "S0175",
+    "line_id": "L011",
+    "passenger_count": "407",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-27",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00162",
+    "station_id": "S0057",
+    "line_id": "L015",
+    "passenger_count": "1026",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-02",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00163",
+    "station_id": "S0181",
+    "line_id": "L015",
+    "passenger_count": "29",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-27",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00164",
+    "station_id": "S0072",
+    "line_id": "L003",
+    "passenger_count": "364",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-07",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00165",
+    "station_id": "S0151",
+    "line_id": "L006",
+    "passenger_count": "1542",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-05",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00166",
+    "station_id": "S0220",
+    "line_id": "L013",
+    "passenger_count": "1086",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-07",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00167",
+    "station_id": "S0174",
+    "line_id": "L009",
+    "passenger_count": "1409",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-15",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00168",
+    "station_id": "S0165",
+    "line_id": "L006",
+    "passenger_count": "1763",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-14",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00169",
+    "station_id": "S0032",
+    "line_id": "L007",
+    "passenger_count": "1029",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-17",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00170",
+    "station_id": "S0058",
+    "line_id": "L010",
+    "passenger_count": "584",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-18",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00171",
+    "station_id": "S0002",
+    "line_id": "L014",
+    "passenger_count": "413",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-03",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00172",
+    "station_id": "S0058",
+    "line_id": "L010",
+    "passenger_count": "167",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-07",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00173",
+    "station_id": "S0080",
+    "line_id": "L014",
+    "passenger_count": "1297",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-04",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00174",
+    "station_id": "S0111",
+    "line_id": "L002",
+    "passenger_count": "1228",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-11",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00175",
+    "station_id": "S0028",
+    "line_id": "L016",
+    "passenger_count": "503",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-27",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00176",
+    "station_id": "S0134",
+    "line_id": "L008",
+    "passenger_count": "164",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-20",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00177",
+    "station_id": "S0161",
+    "line_id": "L011",
+    "passenger_count": "1200",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-03",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00178",
+    "station_id": "S0097",
+    "line_id": "L013",
+    "passenger_count": "1751",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-26",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00179",
+    "station_id": "S0206",
+    "line_id": "L004",
+    "passenger_count": "127",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-20",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00180",
+    "station_id": "S0027",
+    "line_id": "L012",
+    "passenger_count": "1160",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-10",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00181",
+    "station_id": "S0025",
+    "line_id": "L001",
+    "passenger_count": "492",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-26",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00182",
+    "station_id": "S0099",
+    "line_id": "L001",
+    "passenger_count": "1643",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-20",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00183",
+    "station_id": "S0167",
+    "line_id": "L001",
+    "passenger_count": "944",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-11",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00184",
+    "station_id": "S0027",
+    "line_id": "L012",
+    "passenger_count": "1233",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-19",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00185",
+    "station_id": "S0033",
+    "line_id": "L015",
+    "passenger_count": "742",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-16",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00186",
+    "station_id": "S0063",
+    "line_id": "L001",
+    "passenger_count": "1647",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-02",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00187",
+    "station_id": "S0150",
+    "line_id": "L016",
+    "passenger_count": "1065",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-25",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00188",
+    "station_id": "S0150",
+    "line_id": "L016",
+    "passenger_count": "316",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-10",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00189",
+    "station_id": "S0095",
+    "line_id": "L013",
+    "passenger_count": "1075",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-22",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00190",
+    "station_id": "S0061",
+    "line_id": "L014",
+    "passenger_count": "879",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-07",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00191",
+    "station_id": "S0052",
+    "line_id": "L004",
+    "passenger_count": "714",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-22",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00192",
+    "station_id": "S0178",
+    "line_id": "L013",
+    "passenger_count": "1243",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-28",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00193",
+    "station_id": "S0077",
+    "line_id": "L014",
+    "passenger_count": "688",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-04",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00194",
+    "station_id": "S0127",
+    "line_id": "L016",
+    "passenger_count": "22",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-08",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00195",
+    "station_id": "S0160",
+    "line_id": "L001",
+    "passenger_count": "504",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-24",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00196",
+    "station_id": "S0097",
+    "line_id": "L013",
+    "passenger_count": "834",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-27",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00197",
+    "station_id": "S0003",
+    "line_id": "L001",
+    "passenger_count": "747",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-18",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00198",
+    "station_id": "S0075",
+    "line_id": "L004",
+    "passenger_count": "413",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-19",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00199",
+    "station_id": "S0008",
+    "line_id": "L003",
+    "passenger_count": "420",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-06",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00200",
+    "station_id": "S0185",
+    "line_id": "L007",
+    "passenger_count": "710",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-08",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00201",
+    "station_id": "S0006",
+    "line_id": "L004",
+    "passenger_count": "1741",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-04",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00202",
+    "station_id": "S0036",
+    "line_id": "L011",
+    "passenger_count": "1356",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-11",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00203",
+    "station_id": "S0117",
+    "line_id": "L001",
+    "passenger_count": "772",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-22",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00204",
+    "station_id": "S0205",
+    "line_id": "L015",
+    "passenger_count": "1471",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-04",
+    "time_band": "Midday",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00205",
+    "station_id": "S0204",
+    "line_id": "L011",
+    "passenger_count": "407",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-13",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00206",
+    "station_id": "S0154",
+    "line_id": "L008",
+    "passenger_count": "1317",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-02",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00207",
+    "station_id": "S0076",
+    "line_id": "L014",
+    "passenger_count": "686",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-02",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00208",
+    "station_id": "S0218",
+    "line_id": "L003",
+    "passenger_count": "443",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-26",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00209",
+    "station_id": "S0158",
+    "line_id": "L016",
+    "passenger_count": "357",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-13",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00210",
+    "station_id": "S0133",
+    "line_id": "L004",
+    "passenger_count": "381",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-23",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00211",
+    "station_id": "S0178",
+    "line_id": "L013",
+    "passenger_count": "1480",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-16",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00212",
+    "station_id": "",
+    "line_id": "L011",
+    "passenger_count": "439",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-07",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00213",
+    "station_id": "S0102",
+    "line_id": "L002",
+    "passenger_count": "641",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-13",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00214",
+    "station_id": "S0066",
+    "line_id": "L004",
+    "passenger_count": "290",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-10",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00215",
+    "station_id": "S0091",
+    "line_id": "L015",
+    "passenger_count": "1210",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-15",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00216",
+    "station_id": "S0116",
+    "line_id": "L015",
+    "passenger_count": "900",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-12",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00217",
+    "station_id": "S0070",
+    "line_id": "L007",
+    "passenger_count": "65",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-15",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00218",
+    "station_id": "S0166",
+    "line_id": "L005",
+    "passenger_count": "750",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-10",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00219",
+    "station_id": "S0059",
+    "line_id": "L004",
+    "passenger_count": "257",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-12",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00220",
+    "station_id": "S0052",
+    "line_id": "L004",
+    "passenger_count": "417",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-11",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00221",
+    "station_id": "S0191",
+    "line_id": "L009",
+    "passenger_count": "405",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-05",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00222",
+    "station_id": "S0198",
+    "line_id": "L014",
+    "passenger_count": "592",
+    "delay_minutes": "3",
+    "journey_date": "2026-02-26",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00223",
+    "station_id": "S0211",
+    "line_id": "L014",
+    "passenger_count": "981",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-17",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00224",
+    "station_id": "S0059",
+    "line_id": "L004",
+    "passenger_count": "1496",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-16",
+    "time_band": "Midday",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00225",
+    "station_id": "S0151",
+    "line_id": "L006",
+    "passenger_count": "1494",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-11",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00226",
+    "station_id": "S0217",
+    "line_id": "L015",
+    "passenger_count": "893",
+    "delay_minutes": "5",
+    "journey_date": "2026-02-07",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00227",
+    "station_id": "S0219",
+    "line_id": "L006",
+    "passenger_count": "782",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-19",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00228",
+    "station_id": "S0189",
+    "line_id": "L010",
+    "passenger_count": "1038",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-27",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00229",
+    "station_id": "S0058",
+    "line_id": "L010",
+    "passenger_count": "886",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-25",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00230",
+    "station_id": "S0138",
+    "line_id": "L005",
+    "passenger_count": "682",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-01",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00231",
+    "station_id": "S0040",
+    "line_id": "L015",
+    "passenger_count": "1178",
+    "delay_minutes": "20",
+    "journey_date": "2026-02-26",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00232",
+    "station_id": "S0053",
+    "line_id": "L003",
+    "passenger_count": "145",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-13",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00233",
+    "station_id": "S0028",
+    "line_id": "L016",
+    "passenger_count": "1181",
+    "delay_minutes": "7",
+    "journey_date": "2026-02-21",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Entry"
+  },
+  {
+    "journey_id": "J00234",
+    "station_id": "S0044",
+    "line_id": "L004",
+    "passenger_count": "1397",
+    "delay_minutes": "12",
+    "journey_date": "2026-02-06",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Transfer"
+  },
+  {
+    "journey_id": "J00235",
+    "station_id": "S0155",
+    "line_id": "L005",
+    "passenger_count": "69",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-07",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00236",
+    "station_id": "S0073",
+    "line_id": "L011",
+    "passenger_count": "492",
+    "delay_minutes": "2",
+    "journey_date": "2026-02-22",
+    "time_band": "AM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00237",
+    "station_id": "S0015",
+    "line_id": "L002",
+    "passenger_count": "1076",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-06",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00238",
+    "station_id": "S0101",
+    "line_id": "L001",
+    "passenger_count": "241",
+    "delay_minutes": "0",
+    "journey_date": "2026-02-18",
+    "time_band": "Late Evening",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00239",
+    "station_id": "S0191",
+    "line_id": "L009",
+    "passenger_count": "811",
+    "delay_minutes": "1",
+    "journey_date": "2026-02-05",
+    "time_band": "Midday",
+    "entry_exit_flag": "Exit"
+  },
+  {
+    "journey_id": "J00240",
+    "station_id": "S0111",
+    "line_id": "L002",
+    "passenger_count": "340",
+    "delay_minutes": "15",
+    "journey_date": "2026-02-19",
+    "time_band": "PM Peak",
+    "entry_exit_flag": "Transfer"
+  }
+]
